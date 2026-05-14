@@ -3803,7 +3803,7 @@
                         "28": {
                             "logit_value": 9.909375190734863,
                             "completed_sentence": "Carolina",
-                            "group": "valid_and_rare"
+                            "group": "invalid"
                         },
                         "29": {
                             "logit_value": 9.909375190734863,
@@ -3828,12 +3828,12 @@
                         "33": {
                             "logit_value": 9.909375190734863,
                             "completed_sentence": "olorado",
-                            "group": "valid_and_rare"
+                            "group": "invalid"
                         },
                         "34": {
                             "logit_value": 9.909375190734863,
                             "completed_sentence": "consin",
-                            "group": "valid_and_rare"
+                            "group": "invalid"
                         },
                         "35": {
                             "logit_value": 9.909375190734863,
@@ -4134,7 +4134,7 @@
                         "28": {
                             "logit_value": -92.62499237060547,
                             "completed_sentence": "Carolina",
-                            "group": "valid_and_rare"
+                            "group": "invalid"
                         },
                         "29": {
                             "logit_value": -93.24999237060547,
@@ -4159,12 +4159,12 @@
                         "33": {
                             "logit_value": -97.62499237060547,
                             "completed_sentence": "olorado",
-                            "group": "valid_and_rare"
+                            "group": "invalid"
                         },
                         "34": {
                             "logit_value": -97.62499237060547,
                             "completed_sentence": "consin",
-                            "group": "valid_and_rare"
+                            "group": "invalid"
                         },
                         "35": {
                             "logit_value": -98.24999237060547,
@@ -4319,7 +4319,7 @@
                     "__temperature_rates": {
                         "valid_and_frequent": 0.9706954956054688,
                         "valid_and_rare": 0.02930394932627678,
-                        "invalid": 5.374500915422686e-07
+                        "invalid": 5.385654731071554e-07
                     },
                     "tokens": {
                         "0": {
@@ -4465,7 +4465,7 @@
                         "28": {
                             "logit_value": 0.875,
                             "completed_sentence": "Carolina",
-                            "group": "valid_and_rare"
+                            "group": "invalid"
                         },
                         "29": {
                             "logit_value": 0.75,
@@ -4490,12 +4490,12 @@
                         "33": {
                             "logit_value": -0.125,
                             "completed_sentence": "olorado",
-                            "group": "valid_and_rare"
+                            "group": "invalid"
                         },
                         "34": {
                             "logit_value": -0.125,
                             "completed_sentence": "consin",
-                            "group": "valid_and_rare"
+                            "group": "invalid"
                         },
                         "35": {
                             "logit_value": -0.25,
@@ -4649,8 +4649,8 @@
                     "ylim_min": 10.009375,
                     "__temperature_rates": {
                         "valid_and_frequent": 0.8743413090705872,
-                        "valid_and_rare": 0.12552686035633087,
-                        "invalid": 0.00013202044647186995
+                        "valid_and_rare": 0.12552502751350403,
+                        "invalid": 0.00013384356861934066
                     },
                     "tokens": {
                         "0": {
@@ -4796,7 +4796,7 @@
                         "28": {
                             "logit_value": 9.640625,
                             "completed_sentence": "Carolina",
-                            "group": "valid_and_rare"
+                            "group": "invalid"
                         },
                         "29": {
                             "logit_value": 9.5625,
@@ -4821,12 +4821,12 @@
                         "33": {
                             "logit_value": 9.015625,
                             "completed_sentence": "olorado",
-                            "group": "valid_and_rare"
+                            "group": "invalid"
                         },
                         "34": {
                             "logit_value": 9.015625,
                             "completed_sentence": "consin",
-                            "group": "valid_and_rare"
+                            "group": "invalid"
                         },
                         "35": {
                             "logit_value": 8.9375,
@@ -4980,8 +4980,8 @@
                     "ylim_min": 10.009375,
                     "__temperature_rates": {
                         "valid_and_frequent": 0.8063449263572693,
-                        "valid_and_rare": 0.19279806315898895,
-                        "invalid": 0.00085687474347651
+                        "valid_and_rare": 0.19277729094028473,
+                        "invalid": 0.0008776463801041245
                     },
                     "tokens": {
                         "0": {
@@ -5127,7 +5127,7 @@
                         "28": {
                             "logit_value": 12.5625,
                             "completed_sentence": "Carolina",
-                            "group": "valid_and_rare"
+                            "group": "invalid"
                         },
                         "29": {
                             "logit_value": 12.5,
@@ -5152,12 +5152,12 @@
                         "33": {
                             "logit_value": 12.0625,
                             "completed_sentence": "olorado",
-                            "group": "valid_and_rare"
+                            "group": "invalid"
                         },
                         "34": {
                             "logit_value": 12.0625,
                             "completed_sentence": "consin",
-                            "group": "valid_and_rare"
+                            "group": "invalid"
                         },
                         "35": {
                             "logit_value": 12.0,
@@ -5311,8 +5311,8 @@
                     "ylim_min": 10.009375,
                     "__temperature_rates": {
                         "valid_and_frequent": 0.670073390007019,
-                        "valid_and_rare": 0.31835588812828064,
-                        "invalid": 0.011570899747312069
+                        "valid_and_rare": 0.3178463876247406,
+                        "invalid": 0.012080439366400242
                     },
                     "tokens": {
                         "0": {
@@ -5458,7 +5458,7 @@
                         "28": {
                             "logit_value": 13.949271202087402,
                             "completed_sentence": "Carolina",
-                            "group": "valid_and_rare"
+                            "group": "invalid"
                         },
                         "29": {
                             "logit_value": 13.907604217529297,
@@ -5483,12 +5483,12 @@
                         "33": {
                             "logit_value": 13.615938186645508,
                             "completed_sentence": "olorado",
-                            "group": "valid_and_rare"
+                            "group": "invalid"
                         },
                         "34": {
                             "logit_value": 13.615938186645508,
                             "completed_sentence": "consin",
-                            "group": "valid_and_rare"
+                            "group": "invalid"
                         },
                         "35": {
                             "logit_value": 13.574271202087402,
@@ -5642,8 +5642,8 @@
                     "ylim_min": 10.009375,
                     "__temperature_rates": {
                         "valid_and_frequent": 0.48518654704093933,
-                        "valid_and_rare": 0.4157642722129822,
-                        "invalid": 0.09904929995536804
+                        "valid_and_rare": 0.4100000858306885,
+                        "invalid": 0.10481347143650055
                     },
                     "tokens": {
                         "0": {
@@ -5789,7 +5789,7 @@
                         "28": {
                             "logit_value": 15.00895881652832,
                             "completed_sentence": "Carolina",
-                            "group": "valid_and_rare"
+                            "group": "invalid"
                         },
                         "29": {
                             "logit_value": 14.98395824432373,
@@ -5814,12 +5814,12 @@
                         "33": {
                             "logit_value": 14.808958053588867,
                             "completed_sentence": "olorado",
-                            "group": "valid_and_rare"
+                            "group": "invalid"
                         },
                         "34": {
                             "logit_value": 14.808958053588867,
                             "completed_sentence": "consin",
-                            "group": "valid_and_rare"
+                            "group": "invalid"
                         },
                         "35": {
                             "logit_value": 14.783958435058594,
@@ -5973,8 +5973,8 @@
                     "ylim_min": 10.009375,
                     "__temperature_rates": {
                         "valid_and_frequent": 0.4159567952156067,
-                        "valid_and_rare": 0.4205578565597534,
-                        "invalid": 0.16348513960838318
+                        "valid_and_rare": 0.410665363073349,
+                        "invalid": 0.17337767779827118
                     },
                     "tokens": {
                         "0": {
@@ -6120,7 +6120,7 @@
                         "28": {
                             "logit_value": 15.087396621704102,
                             "completed_sentence": "Carolina",
-                            "group": "valid_and_rare"
+                            "group": "invalid"
                         },
                         "29": {
                             "logit_value": 15.06656265258789,
@@ -6145,12 +6145,12 @@
                         "33": {
                             "logit_value": 14.920730590820312,
                             "completed_sentence": "olorado",
-                            "group": "valid_and_rare"
+                            "group": "invalid"
                         },
                         "34": {
                             "logit_value": 14.920730590820312,
                             "completed_sentence": "consin",
-                            "group": "valid_and_rare"
+                            "group": "invalid"
                         },
                         "35": {
                             "logit_value": 14.899896621704102,
@@ -6304,8 +6304,8 @@
                     "ylim_min": 10.009375,
                     "__temperature_rates": {
                         "valid_and_frequent": 0.24988293647766113,
-                        "valid_and_rare": 0.37056782841682434,
-                        "invalid": 0.3795493245124817
+                        "valid_and_rare": 0.3465389609336853,
+                        "invalid": 0.40357816219329834
                     },
                     "tokens": {
                         "0": {
@@ -6451,7 +6451,7 @@
                         "28": {
                             "logit_value": 15.492918014526367,
                             "completed_sentence": "Carolina",
-                            "group": "valid_and_rare"
+                            "group": "invalid"
                         },
                         "29": {
                             "logit_value": 15.480417251586914,
@@ -6476,12 +6476,12 @@
                         "33": {
                             "logit_value": 15.39291763305664,
                             "completed_sentence": "olorado",
-                            "group": "valid_and_rare"
+                            "group": "invalid"
                         },
                         "34": {
                             "logit_value": 15.39291763305664,
                             "completed_sentence": "consin",
-                            "group": "valid_and_rare"
+                            "group": "invalid"
                         },
                         "35": {
                             "logit_value": 15.380416870117188,
@@ -6635,8 +6635,8 @@
                     "ylim_min": 10.009375,
                     "__temperature_rates": {
                         "valid_and_frequent": 0.13392797112464905,
-                        "valid_and_rare": 0.28692081570625305,
-                        "invalid": 0.5791512727737427
+                        "valid_and_rare": 0.2499035894870758,
+                        "invalid": 0.6161685585975647
                     },
                     "tokens": {
                         "0": {
@@ -6782,7 +6782,7 @@
                         "28": {
                             "logit_value": 15.734895706176758,
                             "completed_sentence": "Carolina",
-                            "group": "valid_and_rare"
+                            "group": "invalid"
                         },
                         "29": {
                             "logit_value": 15.728645324707031,
@@ -6807,12 +6807,12 @@
                         "33": {
                             "logit_value": 15.684896469116211,
                             "completed_sentence": "olorado",
-                            "group": "valid_and_rare"
+                            "group": "invalid"
                         },
                         "34": {
                             "logit_value": 15.684896469116211,
                             "completed_sentence": "consin",
-                            "group": "valid_and_rare"
+                            "group": "invalid"
                         },
                         "35": {
                             "logit_value": 15.678646087646484,
@@ -6966,8 +6966,8 @@
                     "ylim_min": 10.009375,
                     "__temperature_rates": {
                         "valid_and_frequent": 0.09056249260902405,
-                        "valid_and_rare": 0.24270495772361755,
-                        "invalid": 0.6667325496673584
+                        "valid_and_rare": 0.20015667378902435,
+                        "invalid": 0.7092808485031128
                     },
                     "tokens": {
                         "0": {
@@ -7113,7 +7113,7 @@
                         "28": {
                             "logit_value": 15.731561660766602,
                             "completed_sentence": "Carolina",
-                            "group": "valid_and_rare"
+                            "group": "invalid"
                         },
                         "29": {
                             "logit_value": 15.728437423706055,
@@ -7138,12 +7138,12 @@
                         "33": {
                             "logit_value": 15.706562042236328,
                             "completed_sentence": "olorado",
-                            "group": "valid_and_rare"
+                            "group": "invalid"
                         },
                         "34": {
                             "logit_value": 15.706562042236328,
                             "completed_sentence": "consin",
-                            "group": "valid_and_rare"
+                            "group": "invalid"
                         },
                         "35": {
                             "logit_value": 15.703437805175781,
@@ -10984,7 +10984,7 @@
                         "5": {
                             "logit_value": 2.112499952316284,
                             "completed_sentence": "Minn",
-                            "group": "valid_and_rare"
+                            "group": "invalid"
                         },
                         "6": {
                             "logit_value": 2.112499952316284,
@@ -11283,8 +11283,8 @@
                     "ylim_min": 2.2125,
                     "__temperature_rates": {
                         "valid_and_frequent": 1.0,
-                        "valid_and_rare": 4.4527607241575534e-14,
-                        "invalid": 7.431680136390794e-20
+                        "valid_and_rare": 4.4431526600302584e-14,
+                        "invalid": 9.615580221212881e-17
                     },
                     "tokens": {
                         "0": {
@@ -11315,7 +11315,7 @@
                         "5": {
                             "logit_value": 2.112499952316284,
                             "completed_sentence": "Minn",
-                            "group": "valid_and_rare"
+                            "group": "invalid"
                         },
                         "6": {
                             "logit_value": 2.112499952316284,
@@ -11614,8 +11614,8 @@
                     "ylim_min": 2.2125,
                     "__temperature_rates": {
                         "valid_and_frequent": 0.9935364127159119,
-                        "valid_and_rare": 0.006270179059356451,
-                        "invalid": 0.00019347868510521948
+                        "valid_and_rare": 0.005808394867926836,
+                        "invalid": 0.0006552634877152741
                     },
                     "tokens": {
                         "0": {
@@ -11646,7 +11646,7 @@
                         "5": {
                             "logit_value": 4.8125,
                             "completed_sentence": "Minn",
-                            "group": "valid_and_rare"
+                            "group": "invalid"
                         },
                         "6": {
                             "logit_value": 4.0625,
@@ -11945,8 +11945,8 @@
                     "ylim_min": 2.2125,
                     "__temperature_rates": {
                         "valid_and_frequent": 0.9317963123321533,
-                        "valid_and_rare": 0.06097780913114548,
-                        "invalid": 0.007225954905152321
+                        "valid_and_rare": 0.055718209594488144,
+                        "invalid": 0.012485549785196781
                     },
                     "tokens": {
                         "0": {
@@ -11977,7 +11977,7 @@
                         "5": {
                             "logit_value": 7.578125,
                             "completed_sentence": "Minn",
-                            "group": "valid_and_rare"
+                            "group": "invalid"
                         },
                         "6": {
                             "logit_value": 7.109375,
@@ -12276,8 +12276,8 @@
                     "ylim_min": 2.2125,
                     "__temperature_rates": {
                         "valid_and_frequent": 0.856509804725647,
-                        "valid_and_rare": 0.11773059517145157,
-                        "invalid": 0.02575947716832161
+                        "valid_and_rare": 0.10708864033222198,
+                        "invalid": 0.03640143573284149
                     },
                     "tokens": {
                         "0": {
@@ -12308,7 +12308,7 @@
                         "5": {
                             "logit_value": 8.5,
                             "completed_sentence": "Minn",
-                            "group": "valid_and_rare"
+                            "group": "invalid"
                         },
                         "6": {
                             "logit_value": 8.125,
@@ -12607,8 +12607,8 @@
                     "ylim_min": 2.2125,
                     "__temperature_rates": {
                         "valid_and_frequent": 0.6376557946205139,
-                        "valid_and_rare": 0.23035088181495667,
-                        "invalid": 0.13199324905872345
+                        "valid_and_rare": 0.2071717232465744,
+                        "invalid": 0.15517239272594452
                     },
                     "tokens": {
                         "0": {
@@ -12639,7 +12639,7 @@
                         "5": {
                             "logit_value": 7.97166633605957,
                             "completed_sentence": "Minn",
-                            "group": "valid_and_rare"
+                            "group": "invalid"
                         },
                         "6": {
                             "logit_value": 7.72166633605957,
@@ -12938,8 +12938,8 @@
                     "ylim_min": 2.2125,
                     "__temperature_rates": {
                         "valid_and_frequent": 0.3516642451286316,
-                        "valid_and_rare": 0.27871137857437134,
-                        "invalid": 0.36962440609931946
+                        "valid_and_rare": 0.2445075809955597,
+                        "invalid": 0.4038282036781311
                     },
                     "tokens": {
                         "0": {
@@ -12970,7 +12970,7 @@
                         "5": {
                             "logit_value": 7.514166831970215,
                             "completed_sentence": "Minn",
-                            "group": "valid_and_rare"
+                            "group": "invalid"
                         },
                         "6": {
                             "logit_value": 7.364166736602783,
@@ -13269,8 +13269,8 @@
                     "ylim_min": 2.2125,
                     "__temperature_rates": {
                         "valid_and_frequent": 0.28061628341674805,
-                        "valid_and_rare": 0.2730553448200226,
-                        "invalid": 0.44632840156555176
+                        "valid_and_rare": 0.23695892095565796,
+                        "invalid": 0.482424795627594
                     },
                     "tokens": {
                         "0": {
@@ -13301,7 +13301,7 @@
                         "5": {
                             "logit_value": 7.269165992736816,
                             "completed_sentence": "Minn",
-                            "group": "valid_and_rare"
+                            "group": "invalid"
                         },
                         "6": {
                             "logit_value": 7.144165992736816,
@@ -13600,8 +13600,8 @@
                     "ylim_min": 2.2125,
                     "__temperature_rates": {
                         "valid_and_frequent": 0.16225296258926392,
-                        "valid_and_rare": 0.24271103739738464,
-                        "invalid": 0.5950361490249634
+                        "valid_and_rare": 0.20434074103832245,
+                        "invalid": 0.6334064602851868
                     },
                     "tokens": {
                         "0": {
@@ -13632,7 +13632,7 @@
                         "5": {
                             "logit_value": 6.953332901000977,
                             "completed_sentence": "Minn",
-                            "group": "valid_and_rare"
+                            "group": "invalid"
                         },
                         "6": {
                             "logit_value": 6.87833309173584,
@@ -13931,8 +13931,8 @@
                     "ylim_min": 2.2125,
                     "__temperature_rates": {
                         "valid_and_frequent": 0.09991426020860672,
-                        "valid_and_rare": 0.2112293243408203,
-                        "invalid": 0.6888563632965088
+                        "valid_and_rare": 0.17224103212356567,
+                        "invalid": 0.7278447151184082
                     },
                     "tokens": {
                         "0": {
@@ -13963,7 +13963,7 @@
                         "5": {
                             "logit_value": 6.672916412353516,
                             "completed_sentence": "Minn",
-                            "group": "valid_and_rare"
+                            "group": "invalid"
                         },
                         "6": {
                             "logit_value": 6.635416507720947,
@@ -14262,8 +14262,8 @@
                     "ylim_min": 2.2125,
                     "__temperature_rates": {
                         "valid_and_frequent": 0.07691525667905807,
-                        "valid_and_rare": 0.19514478743076324,
-                        "invalid": 0.727940022945404
+                        "valid_and_rare": 0.1560734212398529,
+                        "invalid": 0.767011284828186
                     },
                     "tokens": {
                         "0": {
@@ -14294,7 +14294,7 @@
                         "5": {
                             "logit_value": 6.445625305175781,
                             "completed_sentence": "Minn",
-                            "group": "valid_and_rare"
+                            "group": "invalid"
                         },
                         "6": {
                             "logit_value": 6.426875114440918,
