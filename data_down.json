@@ -70,7 +70,7 @@
                         },
                         "11": {
                             "logit_value": 9.909375190734863,
-                            "completed_sentence": " Oregon",
+                            "completed_sentence": "\u2423Oregon",
                             "group": "invalid"
                         },
                         "12": {
@@ -90,7 +90,7 @@
                         },
                         "15": {
                             "logit_value": 9.909375190734863,
-                            "completed_sentence": " Vermont",
+                            "completed_sentence": "\u2423Vermont",
                             "group": "invalid"
                         },
                         "16": {
@@ -110,27 +110,27 @@
                         },
                         "19": {
                             "logit_value": 9.909375190734863,
-                            "completed_sentence": " Alaska",
+                            "completed_sentence": "\u2423Alaska",
                             "group": "invalid"
                         },
                         "20": {
                             "logit_value": 9.909375190734863,
-                            "completed_sentence": " Indiana",
+                            "completed_sentence": "\u2423Indiana",
                             "group": "invalid"
                         },
                         "21": {
                             "logit_value": 9.909375190734863,
-                            "completed_sentence": " Connecticut",
+                            "completed_sentence": "\u2423Connecticut",
                             "group": "invalid"
                         },
                         "22": {
                             "logit_value": 9.909375190734863,
-                            "completed_sentence": " Arizona",
+                            "completed_sentence": "\u2423Arizona",
                             "group": "invalid"
                         },
                         "23": {
                             "logit_value": 9.909375190734863,
-                            "completed_sentence": " Colorado",
+                            "completed_sentence": "\u2423Colorado",
                             "group": "invalid"
                         },
                         "24": {
@@ -140,7 +140,7 @@
                         },
                         "25": {
                             "logit_value": 9.909375190734863,
-                            "completed_sentence": " Massachusetts",
+                            "completed_sentence": "\u2423Massachusetts",
                             "group": "invalid"
                         },
                         "26": {
@@ -156,7 +156,7 @@
                         "28": {
                             "logit_value": 9.909375190734863,
                             "completed_sentence": "Carolina",
-                            "group": "invalid"
+                            "group": "valid_and_rare"
                         },
                         "29": {
                             "logit_value": 9.909375190734863,
@@ -181,12 +181,12 @@
                         "33": {
                             "logit_value": 9.909375190734863,
                             "completed_sentence": "olorado",
-                            "group": "invalid"
+                            "group": "valid_and_rare"
                         },
                         "34": {
                             "logit_value": 9.909375190734863,
                             "completed_sentence": "consin",
-                            "group": "invalid"
+                            "group": "valid_and_rare"
                         },
                         "35": {
                             "logit_value": 9.909375190734863,
@@ -215,7 +215,7 @@
                         },
                         "40": {
                             "logit_value": 9.909375190734863,
-                            "completed_sentence": " Connecticu",
+                            "completed_sentence": "\u2423Connecticu",
                             "group": "invalid"
                         },
                         "41": {
@@ -250,7 +250,7 @@
                         },
                         "47": {
                             "logit_value": 9.909375190734863,
-                            "completed_sentence": " kentucky",
+                            "completed_sentence": "\u2423kentucky",
                             "group": "invalid"
                         },
                         "48": {
@@ -300,7 +300,7 @@
                         },
                         "57": {
                             "logit_value": 9.909375190734863,
-                            "completed_sentence": " North Dakota",
+                            "completed_sentence": "\u2423North Dakota",
                             "group": "invalid"
                         },
                         "58": {
@@ -401,7 +401,7 @@
                         },
                         "11": {
                             "logit_value": -49.5,
-                            "completed_sentence": " Oregon",
+                            "completed_sentence": "\u2423Oregon",
                             "group": "invalid"
                         },
                         "12": {
@@ -421,7 +421,7 @@
                         },
                         "15": {
                             "logit_value": -65.125,
-                            "completed_sentence": " Vermont",
+                            "completed_sentence": "\u2423Vermont",
                             "group": "invalid"
                         },
                         "16": {
@@ -441,27 +441,27 @@
                         },
                         "19": {
                             "logit_value": -78.25,
-                            "completed_sentence": " Alaska",
+                            "completed_sentence": "\u2423Alaska",
                             "group": "invalid"
                         },
                         "20": {
                             "logit_value": -79.5,
-                            "completed_sentence": " Indiana",
+                            "completed_sentence": "\u2423Indiana",
                             "group": "invalid"
                         },
                         "21": {
                             "logit_value": -81.375,
-                            "completed_sentence": " Connecticut",
+                            "completed_sentence": "\u2423Connecticut",
                             "group": "invalid"
                         },
                         "22": {
                             "logit_value": -82.625,
-                            "completed_sentence": " Arizona",
+                            "completed_sentence": "\u2423Arizona",
                             "group": "invalid"
                         },
                         "23": {
                             "logit_value": -84.5,
-                            "completed_sentence": " Colorado",
+                            "completed_sentence": "\u2423Colorado",
                             "group": "invalid"
                         },
                         "24": {
@@ -471,7 +471,7 @@
                         },
                         "25": {
                             "logit_value": -88.25,
-                            "completed_sentence": " Massachusetts",
+                            "completed_sentence": "\u2423Massachusetts",
                             "group": "invalid"
                         },
                         "26": {
@@ -487,7 +487,7 @@
                         "28": {
                             "logit_value": -92.62499237060547,
                             "completed_sentence": "Carolina",
-                            "group": "invalid"
+                            "group": "valid_and_rare"
                         },
                         "29": {
                             "logit_value": -93.24999237060547,
@@ -512,12 +512,12 @@
                         "33": {
                             "logit_value": -97.62499237060547,
                             "completed_sentence": "olorado",
-                            "group": "invalid"
+                            "group": "valid_and_rare"
                         },
                         "34": {
                             "logit_value": -97.62499237060547,
                             "completed_sentence": "consin",
-                            "group": "invalid"
+                            "group": "valid_and_rare"
                         },
                         "35": {
                             "logit_value": -98.24999237060547,
@@ -546,7 +546,7 @@
                         },
                         "40": {
                             "logit_value": -100.74999237060547,
-                            "completed_sentence": " Connecticu",
+                            "completed_sentence": "\u2423Connecticu",
                             "group": "invalid"
                         },
                         "41": {
@@ -581,7 +581,7 @@
                         },
                         "47": {
                             "logit_value": -105.74999237060547,
-                            "completed_sentence": " kentucky",
+                            "completed_sentence": "\u2423kentucky",
                             "group": "invalid"
                         },
                         "48": {
@@ -631,7 +631,7 @@
                         },
                         "57": {
                             "logit_value": -109.49999237060547,
-                            "completed_sentence": " North Dakota",
+                            "completed_sentence": "\u2423North Dakota",
                             "group": "invalid"
                         },
                         "58": {
@@ -672,7 +672,7 @@
                     "__temperature_rates": {
                         "valid_and_frequent": 0.9706954956054688,
                         "valid_and_rare": 0.02930394932627678,
-                        "invalid": 5.385654731071554e-07
+                        "invalid": 5.374500915422686e-07
                     },
                     "tokens": {
                         "0": {
@@ -732,7 +732,7 @@
                         },
                         "11": {
                             "logit_value": 9.5,
-                            "completed_sentence": " Oregon",
+                            "completed_sentence": "\u2423Oregon",
                             "group": "invalid"
                         },
                         "12": {
@@ -752,7 +752,7 @@
                         },
                         "15": {
                             "logit_value": 6.375,
-                            "completed_sentence": " Vermont",
+                            "completed_sentence": "\u2423Vermont",
                             "group": "invalid"
                         },
                         "16": {
@@ -772,27 +772,27 @@
                         },
                         "19": {
                             "logit_value": 3.75,
-                            "completed_sentence": " Alaska",
+                            "completed_sentence": "\u2423Alaska",
                             "group": "invalid"
                         },
                         "20": {
                             "logit_value": 3.5,
-                            "completed_sentence": " Indiana",
+                            "completed_sentence": "\u2423Indiana",
                             "group": "invalid"
                         },
                         "21": {
                             "logit_value": 3.125,
-                            "completed_sentence": " Connecticut",
+                            "completed_sentence": "\u2423Connecticut",
                             "group": "invalid"
                         },
                         "22": {
                             "logit_value": 2.875,
-                            "completed_sentence": " Arizona",
+                            "completed_sentence": "\u2423Arizona",
                             "group": "invalid"
                         },
                         "23": {
                             "logit_value": 2.5,
-                            "completed_sentence": " Colorado",
+                            "completed_sentence": "\u2423Colorado",
                             "group": "invalid"
                         },
                         "24": {
@@ -802,7 +802,7 @@
                         },
                         "25": {
                             "logit_value": 1.75,
-                            "completed_sentence": " Massachusetts",
+                            "completed_sentence": "\u2423Massachusetts",
                             "group": "invalid"
                         },
                         "26": {
@@ -818,7 +818,7 @@
                         "28": {
                             "logit_value": 0.875,
                             "completed_sentence": "Carolina",
-                            "group": "invalid"
+                            "group": "valid_and_rare"
                         },
                         "29": {
                             "logit_value": 0.75,
@@ -843,12 +843,12 @@
                         "33": {
                             "logit_value": -0.125,
                             "completed_sentence": "olorado",
-                            "group": "invalid"
+                            "group": "valid_and_rare"
                         },
                         "34": {
                             "logit_value": -0.125,
                             "completed_sentence": "consin",
-                            "group": "invalid"
+                            "group": "valid_and_rare"
                         },
                         "35": {
                             "logit_value": -0.25,
@@ -877,7 +877,7 @@
                         },
                         "40": {
                             "logit_value": -0.75,
-                            "completed_sentence": " Connecticu",
+                            "completed_sentence": "\u2423Connecticu",
                             "group": "invalid"
                         },
                         "41": {
@@ -912,7 +912,7 @@
                         },
                         "47": {
                             "logit_value": -1.75,
-                            "completed_sentence": " kentucky",
+                            "completed_sentence": "\u2423kentucky",
                             "group": "invalid"
                         },
                         "48": {
@@ -962,7 +962,7 @@
                         },
                         "57": {
                             "logit_value": -2.5,
-                            "completed_sentence": " North Dakota",
+                            "completed_sentence": "\u2423North Dakota",
                             "group": "invalid"
                         },
                         "58": {
@@ -1002,8 +1002,8 @@
                     "ylim_min": 10.009375,
                     "__temperature_rates": {
                         "valid_and_frequent": 0.8743413090705872,
-                        "valid_and_rare": 0.12552502751350403,
-                        "invalid": 0.00013384356861934066
+                        "valid_and_rare": 0.12552686035633087,
+                        "invalid": 0.00013202044647186995
                     },
                     "tokens": {
                         "0": {
@@ -1063,7 +1063,7 @@
                         },
                         "11": {
                             "logit_value": 15.03125,
-                            "completed_sentence": " Oregon",
+                            "completed_sentence": "\u2423Oregon",
                             "group": "invalid"
                         },
                         "12": {
@@ -1083,7 +1083,7 @@
                         },
                         "15": {
                             "logit_value": 13.078125,
-                            "completed_sentence": " Vermont",
+                            "completed_sentence": "\u2423Vermont",
                             "group": "invalid"
                         },
                         "16": {
@@ -1103,27 +1103,27 @@
                         },
                         "19": {
                             "logit_value": 11.4375,
-                            "completed_sentence": " Alaska",
+                            "completed_sentence": "\u2423Alaska",
                             "group": "invalid"
                         },
                         "20": {
                             "logit_value": 11.28125,
-                            "completed_sentence": " Indiana",
+                            "completed_sentence": "\u2423Indiana",
                             "group": "invalid"
                         },
                         "21": {
                             "logit_value": 11.046875,
-                            "completed_sentence": " Connecticut",
+                            "completed_sentence": "\u2423Connecticut",
                             "group": "invalid"
                         },
                         "22": {
                             "logit_value": 10.890625,
-                            "completed_sentence": " Arizona",
+                            "completed_sentence": "\u2423Arizona",
                             "group": "invalid"
                         },
                         "23": {
                             "logit_value": 10.65625,
-                            "completed_sentence": " Colorado",
+                            "completed_sentence": "\u2423Colorado",
                             "group": "invalid"
                         },
                         "24": {
@@ -1133,7 +1133,7 @@
                         },
                         "25": {
                             "logit_value": 10.1875,
-                            "completed_sentence": " Massachusetts",
+                            "completed_sentence": "\u2423Massachusetts",
                             "group": "invalid"
                         },
                         "26": {
@@ -1149,7 +1149,7 @@
                         "28": {
                             "logit_value": 9.640625,
                             "completed_sentence": "Carolina",
-                            "group": "invalid"
+                            "group": "valid_and_rare"
                         },
                         "29": {
                             "logit_value": 9.5625,
@@ -1174,12 +1174,12 @@
                         "33": {
                             "logit_value": 9.015625,
                             "completed_sentence": "olorado",
-                            "group": "invalid"
+                            "group": "valid_and_rare"
                         },
                         "34": {
                             "logit_value": 9.015625,
                             "completed_sentence": "consin",
-                            "group": "invalid"
+                            "group": "valid_and_rare"
                         },
                         "35": {
                             "logit_value": 8.9375,
@@ -1208,7 +1208,7 @@
                         },
                         "40": {
                             "logit_value": 8.625,
-                            "completed_sentence": " Connecticu",
+                            "completed_sentence": "\u2423Connecticu",
                             "group": "invalid"
                         },
                         "41": {
@@ -1243,7 +1243,7 @@
                         },
                         "47": {
                             "logit_value": 8.0,
-                            "completed_sentence": " kentucky",
+                            "completed_sentence": "\u2423kentucky",
                             "group": "invalid"
                         },
                         "48": {
@@ -1293,7 +1293,7 @@
                         },
                         "57": {
                             "logit_value": 7.53125,
-                            "completed_sentence": " North Dakota",
+                            "completed_sentence": "\u2423North Dakota",
                             "group": "invalid"
                         },
                         "58": {
@@ -1333,8 +1333,8 @@
                     "ylim_min": 10.009375,
                     "__temperature_rates": {
                         "valid_and_frequent": 0.8063449263572693,
-                        "valid_and_rare": 0.19277729094028473,
-                        "invalid": 0.0008776463801041245
+                        "valid_and_rare": 0.19279806315898895,
+                        "invalid": 0.00085687474347651
                     },
                     "tokens": {
                         "0": {
@@ -1394,7 +1394,7 @@
                         },
                         "11": {
                             "logit_value": 16.875,
-                            "completed_sentence": " Oregon",
+                            "completed_sentence": "\u2423Oregon",
                             "group": "invalid"
                         },
                         "12": {
@@ -1414,7 +1414,7 @@
                         },
                         "15": {
                             "logit_value": 15.3125,
-                            "completed_sentence": " Vermont",
+                            "completed_sentence": "\u2423Vermont",
                             "group": "invalid"
                         },
                         "16": {
@@ -1434,27 +1434,27 @@
                         },
                         "19": {
                             "logit_value": 14.0,
-                            "completed_sentence": " Alaska",
+                            "completed_sentence": "\u2423Alaska",
                             "group": "invalid"
                         },
                         "20": {
                             "logit_value": 13.875,
-                            "completed_sentence": " Indiana",
+                            "completed_sentence": "\u2423Indiana",
                             "group": "invalid"
                         },
                         "21": {
                             "logit_value": 13.6875,
-                            "completed_sentence": " Connecticut",
+                            "completed_sentence": "\u2423Connecticut",
                             "group": "invalid"
                         },
                         "22": {
                             "logit_value": 13.5625,
-                            "completed_sentence": " Arizona",
+                            "completed_sentence": "\u2423Arizona",
                             "group": "invalid"
                         },
                         "23": {
                             "logit_value": 13.375,
-                            "completed_sentence": " Colorado",
+                            "completed_sentence": "\u2423Colorado",
                             "group": "invalid"
                         },
                         "24": {
@@ -1464,7 +1464,7 @@
                         },
                         "25": {
                             "logit_value": 13.0,
-                            "completed_sentence": " Massachusetts",
+                            "completed_sentence": "\u2423Massachusetts",
                             "group": "invalid"
                         },
                         "26": {
@@ -1480,7 +1480,7 @@
                         "28": {
                             "logit_value": 12.5625,
                             "completed_sentence": "Carolina",
-                            "group": "invalid"
+                            "group": "valid_and_rare"
                         },
                         "29": {
                             "logit_value": 12.5,
@@ -1505,12 +1505,12 @@
                         "33": {
                             "logit_value": 12.0625,
                             "completed_sentence": "olorado",
-                            "group": "invalid"
+                            "group": "valid_and_rare"
                         },
                         "34": {
                             "logit_value": 12.0625,
                             "completed_sentence": "consin",
-                            "group": "invalid"
+                            "group": "valid_and_rare"
                         },
                         "35": {
                             "logit_value": 12.0,
@@ -1539,7 +1539,7 @@
                         },
                         "40": {
                             "logit_value": 11.75,
-                            "completed_sentence": " Connecticu",
+                            "completed_sentence": "\u2423Connecticu",
                             "group": "invalid"
                         },
                         "41": {
@@ -1574,7 +1574,7 @@
                         },
                         "47": {
                             "logit_value": 11.25,
-                            "completed_sentence": " kentucky",
+                            "completed_sentence": "\u2423kentucky",
                             "group": "invalid"
                         },
                         "48": {
@@ -1624,7 +1624,7 @@
                         },
                         "57": {
                             "logit_value": 10.875,
-                            "completed_sentence": " North Dakota",
+                            "completed_sentence": "\u2423North Dakota",
                             "group": "invalid"
                         },
                         "58": {
@@ -1664,8 +1664,8 @@
                     "ylim_min": 10.009375,
                     "__temperature_rates": {
                         "valid_and_frequent": 0.670073390007019,
-                        "valid_and_rare": 0.3178463876247406,
-                        "invalid": 0.012080439366400242
+                        "valid_and_rare": 0.31835588812828064,
+                        "invalid": 0.011570899747312069
                     },
                     "tokens": {
                         "0": {
@@ -1725,7 +1725,7 @@
                         },
                         "11": {
                             "logit_value": 16.82427215576172,
-                            "completed_sentence": " Oregon",
+                            "completed_sentence": "\u2423Oregon",
                             "group": "invalid"
                         },
                         "12": {
@@ -1745,7 +1745,7 @@
                         },
                         "15": {
                             "logit_value": 15.782604217529297,
-                            "completed_sentence": " Vermont",
+                            "completed_sentence": "\u2423Vermont",
                             "group": "invalid"
                         },
                         "16": {
@@ -1765,27 +1765,27 @@
                         },
                         "19": {
                             "logit_value": 14.907604217529297,
-                            "completed_sentence": " Alaska",
+                            "completed_sentence": "\u2423Alaska",
                             "group": "invalid"
                         },
                         "20": {
                             "logit_value": 14.824271202087402,
-                            "completed_sentence": " Indiana",
+                            "completed_sentence": "\u2423Indiana",
                             "group": "invalid"
                         },
                         "21": {
                             "logit_value": 14.699271202087402,
-                            "completed_sentence": " Connecticut",
+                            "completed_sentence": "\u2423Connecticut",
                             "group": "invalid"
                         },
                         "22": {
                             "logit_value": 14.615938186645508,
-                            "completed_sentence": " Arizona",
+                            "completed_sentence": "\u2423Arizona",
                             "group": "invalid"
                         },
                         "23": {
                             "logit_value": 14.490938186645508,
-                            "completed_sentence": " Colorado",
+                            "completed_sentence": "\u2423Colorado",
                             "group": "invalid"
                         },
                         "24": {
@@ -1795,7 +1795,7 @@
                         },
                         "25": {
                             "logit_value": 14.240938186645508,
-                            "completed_sentence": " Massachusetts",
+                            "completed_sentence": "\u2423Massachusetts",
                             "group": "invalid"
                         },
                         "26": {
@@ -1811,7 +1811,7 @@
                         "28": {
                             "logit_value": 13.949271202087402,
                             "completed_sentence": "Carolina",
-                            "group": "invalid"
+                            "group": "valid_and_rare"
                         },
                         "29": {
                             "logit_value": 13.907604217529297,
@@ -1836,12 +1836,12 @@
                         "33": {
                             "logit_value": 13.615938186645508,
                             "completed_sentence": "olorado",
-                            "group": "invalid"
+                            "group": "valid_and_rare"
                         },
                         "34": {
                             "logit_value": 13.615938186645508,
                             "completed_sentence": "consin",
-                            "group": "invalid"
+                            "group": "valid_and_rare"
                         },
                         "35": {
                             "logit_value": 13.574271202087402,
@@ -1870,7 +1870,7 @@
                         },
                         "40": {
                             "logit_value": 13.407604217529297,
-                            "completed_sentence": " Connecticu",
+                            "completed_sentence": "\u2423Connecticu",
                             "group": "invalid"
                         },
                         "41": {
@@ -1905,7 +1905,7 @@
                         },
                         "47": {
                             "logit_value": 13.074271202087402,
-                            "completed_sentence": " kentucky",
+                            "completed_sentence": "\u2423kentucky",
                             "group": "invalid"
                         },
                         "48": {
@@ -1955,7 +1955,7 @@
                         },
                         "57": {
                             "logit_value": 12.824271202087402,
-                            "completed_sentence": " North Dakota",
+                            "completed_sentence": "\u2423North Dakota",
                             "group": "invalid"
                         },
                         "58": {
@@ -1995,8 +1995,8 @@
                     "ylim_min": 10.009375,
                     "__temperature_rates": {
                         "valid_and_frequent": 0.48518654704093933,
-                        "valid_and_rare": 0.4100000858306885,
-                        "invalid": 0.10481347143650055
+                        "valid_and_rare": 0.4157642722129822,
+                        "invalid": 0.09904929995536804
                     },
                     "tokens": {
                         "0": {
@@ -2056,7 +2056,7 @@
                         },
                         "11": {
                             "logit_value": 16.733959197998047,
-                            "completed_sentence": " Oregon",
+                            "completed_sentence": "\u2423Oregon",
                             "group": "invalid"
                         },
                         "12": {
@@ -2076,7 +2076,7 @@
                         },
                         "15": {
                             "logit_value": 16.108959197998047,
-                            "completed_sentence": " Vermont",
+                            "completed_sentence": "\u2423Vermont",
                             "group": "invalid"
                         },
                         "16": {
@@ -2096,27 +2096,27 @@
                         },
                         "19": {
                             "logit_value": 15.58395767211914,
-                            "completed_sentence": " Alaska",
+                            "completed_sentence": "\u2423Alaska",
                             "group": "invalid"
                         },
                         "20": {
                             "logit_value": 15.533958435058594,
-                            "completed_sentence": " Indiana",
+                            "completed_sentence": "\u2423Indiana",
                             "group": "invalid"
                         },
                         "21": {
                             "logit_value": 15.45895767211914,
-                            "completed_sentence": " Connecticut",
+                            "completed_sentence": "\u2423Connecticut",
                             "group": "invalid"
                         },
                         "22": {
                             "logit_value": 15.408958435058594,
-                            "completed_sentence": " Arizona",
+                            "completed_sentence": "\u2423Arizona",
                             "group": "invalid"
                         },
                         "23": {
                             "logit_value": 15.33395767211914,
-                            "completed_sentence": " Colorado",
+                            "completed_sentence": "\u2423Colorado",
                             "group": "invalid"
                         },
                         "24": {
@@ -2126,7 +2126,7 @@
                         },
                         "25": {
                             "logit_value": 15.183958053588867,
-                            "completed_sentence": " Massachusetts",
+                            "completed_sentence": "\u2423Massachusetts",
                             "group": "invalid"
                         },
                         "26": {
@@ -2142,7 +2142,7 @@
                         "28": {
                             "logit_value": 15.00895881652832,
                             "completed_sentence": "Carolina",
-                            "group": "invalid"
+                            "group": "valid_and_rare"
                         },
                         "29": {
                             "logit_value": 14.98395824432373,
@@ -2167,12 +2167,12 @@
                         "33": {
                             "logit_value": 14.808958053588867,
                             "completed_sentence": "olorado",
-                            "group": "invalid"
+                            "group": "valid_and_rare"
                         },
                         "34": {
                             "logit_value": 14.808958053588867,
                             "completed_sentence": "consin",
-                            "group": "invalid"
+                            "group": "valid_and_rare"
                         },
                         "35": {
                             "logit_value": 14.783958435058594,
@@ -2201,7 +2201,7 @@
                         },
                         "40": {
                             "logit_value": 14.683958053588867,
-                            "completed_sentence": " Connecticu",
+                            "completed_sentence": "\u2423Connecticu",
                             "group": "invalid"
                         },
                         "41": {
@@ -2236,7 +2236,7 @@
                         },
                         "47": {
                             "logit_value": 14.48395824432373,
-                            "completed_sentence": " kentucky",
+                            "completed_sentence": "\u2423kentucky",
                             "group": "invalid"
                         },
                         "48": {
@@ -2286,7 +2286,7 @@
                         },
                         "57": {
                             "logit_value": 14.33395767211914,
-                            "completed_sentence": " North Dakota",
+                            "completed_sentence": "\u2423North Dakota",
                             "group": "invalid"
                         },
                         "58": {
@@ -2326,8 +2326,8 @@
                     "ylim_min": 10.009375,
                     "__temperature_rates": {
                         "valid_and_frequent": 0.4159567952156067,
-                        "valid_and_rare": 0.410665363073349,
-                        "invalid": 0.17337767779827118
+                        "valid_and_rare": 0.4205578565597534,
+                        "invalid": 0.16348513960838318
                     },
                     "tokens": {
                         "0": {
@@ -2387,7 +2387,7 @@
                         },
                         "11": {
                             "logit_value": 16.5248966217041,
-                            "completed_sentence": " Oregon",
+                            "completed_sentence": "\u2423Oregon",
                             "group": "invalid"
                         },
                         "12": {
@@ -2407,7 +2407,7 @@
                         },
                         "15": {
                             "logit_value": 16.00406265258789,
-                            "completed_sentence": " Vermont",
+                            "completed_sentence": "\u2423Vermont",
                             "group": "invalid"
                         },
                         "16": {
@@ -2427,27 +2427,27 @@
                         },
                         "19": {
                             "logit_value": 15.56656265258789,
-                            "completed_sentence": " Alaska",
+                            "completed_sentence": "\u2423Alaska",
                             "group": "invalid"
                         },
                         "20": {
                             "logit_value": 15.524896621704102,
-                            "completed_sentence": " Indiana",
+                            "completed_sentence": "\u2423Indiana",
                             "group": "invalid"
                         },
                         "21": {
                             "logit_value": 15.462396621704102,
-                            "completed_sentence": " Connecticut",
+                            "completed_sentence": "\u2423Connecticut",
                             "group": "invalid"
                         },
                         "22": {
                             "logit_value": 15.420730590820312,
-                            "completed_sentence": " Arizona",
+                            "completed_sentence": "\u2423Arizona",
                             "group": "invalid"
                         },
                         "23": {
                             "logit_value": 15.358230590820312,
-                            "completed_sentence": " Colorado",
+                            "completed_sentence": "\u2423Colorado",
                             "group": "invalid"
                         },
                         "24": {
@@ -2457,7 +2457,7 @@
                         },
                         "25": {
                             "logit_value": 15.233230590820312,
-                            "completed_sentence": " Massachusetts",
+                            "completed_sentence": "\u2423Massachusetts",
                             "group": "invalid"
                         },
                         "26": {
@@ -2473,7 +2473,7 @@
                         "28": {
                             "logit_value": 15.087396621704102,
                             "completed_sentence": "Carolina",
-                            "group": "invalid"
+                            "group": "valid_and_rare"
                         },
                         "29": {
                             "logit_value": 15.06656265258789,
@@ -2498,12 +2498,12 @@
                         "33": {
                             "logit_value": 14.920730590820312,
                             "completed_sentence": "olorado",
-                            "group": "invalid"
+                            "group": "valid_and_rare"
                         },
                         "34": {
                             "logit_value": 14.920730590820312,
                             "completed_sentence": "consin",
-                            "group": "invalid"
+                            "group": "valid_and_rare"
                         },
                         "35": {
                             "logit_value": 14.899896621704102,
@@ -2532,7 +2532,7 @@
                         },
                         "40": {
                             "logit_value": 14.816563606262207,
-                            "completed_sentence": " Connecticu",
+                            "completed_sentence": "\u2423Connecticu",
                             "group": "invalid"
                         },
                         "41": {
@@ -2567,7 +2567,7 @@
                         },
                         "47": {
                             "logit_value": 14.649896621704102,
-                            "completed_sentence": " kentucky",
+                            "completed_sentence": "\u2423kentucky",
                             "group": "invalid"
                         },
                         "48": {
@@ -2617,7 +2617,7 @@
                         },
                         "57": {
                             "logit_value": 14.524896621704102,
-                            "completed_sentence": " North Dakota",
+                            "completed_sentence": "\u2423North Dakota",
                             "group": "invalid"
                         },
                         "58": {
@@ -2657,8 +2657,8 @@
                     "ylim_min": 10.009375,
                     "__temperature_rates": {
                         "valid_and_frequent": 0.24988293647766113,
-                        "valid_and_rare": 0.3465389609336853,
-                        "invalid": 0.40357816219329834
+                        "valid_and_rare": 0.37056782841682434,
+                        "invalid": 0.3795493245124817
                     },
                     "tokens": {
                         "0": {
@@ -2718,7 +2718,7 @@
                         },
                         "11": {
                             "logit_value": 16.355417251586914,
-                            "completed_sentence": " Oregon",
+                            "completed_sentence": "\u2423Oregon",
                             "group": "invalid"
                         },
                         "12": {
@@ -2738,7 +2738,7 @@
                         },
                         "15": {
                             "logit_value": 16.042917251586914,
-                            "completed_sentence": " Vermont",
+                            "completed_sentence": "\u2423Vermont",
                             "group": "invalid"
                         },
                         "16": {
@@ -2758,27 +2758,27 @@
                         },
                         "19": {
                             "logit_value": 15.780416488647461,
-                            "completed_sentence": " Alaska",
+                            "completed_sentence": "\u2423Alaska",
                             "group": "invalid"
                         },
                         "20": {
                             "logit_value": 15.755416870117188,
-                            "completed_sentence": " Indiana",
+                            "completed_sentence": "\u2423Indiana",
                             "group": "invalid"
                         },
                         "21": {
                             "logit_value": 15.717916488647461,
-                            "completed_sentence": " Connecticut",
+                            "completed_sentence": "\u2423Connecticut",
                             "group": "invalid"
                         },
                         "22": {
                             "logit_value": 15.692916870117188,
-                            "completed_sentence": " Arizona",
+                            "completed_sentence": "\u2423Arizona",
                             "group": "invalid"
                         },
                         "23": {
                             "logit_value": 15.655416488647461,
-                            "completed_sentence": " Colorado",
+                            "completed_sentence": "\u2423Colorado",
                             "group": "invalid"
                         },
                         "24": {
@@ -2788,7 +2788,7 @@
                         },
                         "25": {
                             "logit_value": 15.58041763305664,
-                            "completed_sentence": " Massachusetts",
+                            "completed_sentence": "\u2423Massachusetts",
                             "group": "invalid"
                         },
                         "26": {
@@ -2804,7 +2804,7 @@
                         "28": {
                             "logit_value": 15.492918014526367,
                             "completed_sentence": "Carolina",
-                            "group": "invalid"
+                            "group": "valid_and_rare"
                         },
                         "29": {
                             "logit_value": 15.480417251586914,
@@ -2829,12 +2829,12 @@
                         "33": {
                             "logit_value": 15.39291763305664,
                             "completed_sentence": "olorado",
-                            "group": "invalid"
+                            "group": "valid_and_rare"
                         },
                         "34": {
                             "logit_value": 15.39291763305664,
                             "completed_sentence": "consin",
-                            "group": "invalid"
+                            "group": "valid_and_rare"
                         },
                         "35": {
                             "logit_value": 15.380416870117188,
@@ -2863,7 +2863,7 @@
                         },
                         "40": {
                             "logit_value": 15.33041763305664,
-                            "completed_sentence": " Connecticu",
+                            "completed_sentence": "\u2423Connecticu",
                             "group": "invalid"
                         },
                         "41": {
@@ -2898,7 +2898,7 @@
                         },
                         "47": {
                             "logit_value": 15.230417251586914,
-                            "completed_sentence": " kentucky",
+                            "completed_sentence": "\u2423kentucky",
                             "group": "invalid"
                         },
                         "48": {
@@ -2948,7 +2948,7 @@
                         },
                         "57": {
                             "logit_value": 15.155416488647461,
-                            "completed_sentence": " North Dakota",
+                            "completed_sentence": "\u2423North Dakota",
                             "group": "invalid"
                         },
                         "58": {
@@ -2988,8 +2988,8 @@
                     "ylim_min": 10.009375,
                     "__temperature_rates": {
                         "valid_and_frequent": 0.13392797112464905,
-                        "valid_and_rare": 0.2499035894870758,
-                        "invalid": 0.6161685585975647
+                        "valid_and_rare": 0.28692081570625305,
+                        "invalid": 0.5791512727737427
                     },
                     "tokens": {
                         "0": {
@@ -3049,7 +3049,7 @@
                         },
                         "11": {
                             "logit_value": 16.16614532470703,
-                            "completed_sentence": " Oregon",
+                            "completed_sentence": "\u2423Oregon",
                             "group": "invalid"
                         },
                         "12": {
@@ -3069,7 +3069,7 @@
                         },
                         "15": {
                             "logit_value": 16.00989532470703,
-                            "completed_sentence": " Vermont",
+                            "completed_sentence": "\u2423Vermont",
                             "group": "invalid"
                         },
                         "16": {
@@ -3089,27 +3089,27 @@
                         },
                         "19": {
                             "logit_value": 15.878646850585938,
-                            "completed_sentence": " Alaska",
+                            "completed_sentence": "\u2423Alaska",
                             "group": "invalid"
                         },
                         "20": {
                             "logit_value": 15.866146087646484,
-                            "completed_sentence": " Indiana",
+                            "completed_sentence": "\u2423Indiana",
                             "group": "invalid"
                         },
                         "21": {
                             "logit_value": 15.847396850585938,
-                            "completed_sentence": " Connecticut",
+                            "completed_sentence": "\u2423Connecticut",
                             "group": "invalid"
                         },
                         "22": {
                             "logit_value": 15.834896087646484,
-                            "completed_sentence": " Arizona",
+                            "completed_sentence": "\u2423Arizona",
                             "group": "invalid"
                         },
                         "23": {
                             "logit_value": 15.816146850585938,
-                            "completed_sentence": " Colorado",
+                            "completed_sentence": "\u2423Colorado",
                             "group": "invalid"
                         },
                         "24": {
@@ -3119,7 +3119,7 @@
                         },
                         "25": {
                             "logit_value": 15.778646469116211,
-                            "completed_sentence": " Massachusetts",
+                            "completed_sentence": "\u2423Massachusetts",
                             "group": "invalid"
                         },
                         "26": {
@@ -3135,7 +3135,7 @@
                         "28": {
                             "logit_value": 15.734895706176758,
                             "completed_sentence": "Carolina",
-                            "group": "invalid"
+                            "group": "valid_and_rare"
                         },
                         "29": {
                             "logit_value": 15.728645324707031,
@@ -3160,12 +3160,12 @@
                         "33": {
                             "logit_value": 15.684896469116211,
                             "completed_sentence": "olorado",
-                            "group": "invalid"
+                            "group": "valid_and_rare"
                         },
                         "34": {
                             "logit_value": 15.684896469116211,
                             "completed_sentence": "consin",
-                            "group": "invalid"
+                            "group": "valid_and_rare"
                         },
                         "35": {
                             "logit_value": 15.678646087646484,
@@ -3194,7 +3194,7 @@
                         },
                         "40": {
                             "logit_value": 15.653646469116211,
-                            "completed_sentence": " Connecticu",
+                            "completed_sentence": "\u2423Connecticu",
                             "group": "invalid"
                         },
                         "41": {
@@ -3229,7 +3229,7 @@
                         },
                         "47": {
                             "logit_value": 15.603645324707031,
-                            "completed_sentence": " kentucky",
+                            "completed_sentence": "\u2423kentucky",
                             "group": "invalid"
                         },
                         "48": {
@@ -3279,7 +3279,7 @@
                         },
                         "57": {
                             "logit_value": 15.566146850585938,
-                            "completed_sentence": " North Dakota",
+                            "completed_sentence": "\u2423North Dakota",
                             "group": "invalid"
                         },
                         "58": {
@@ -3319,8 +3319,8 @@
                     "ylim_min": 10.009375,
                     "__temperature_rates": {
                         "valid_and_frequent": 0.09056249260902405,
-                        "valid_and_rare": 0.20015667378902435,
-                        "invalid": 0.7092808485031128
+                        "valid_and_rare": 0.24270495772361755,
+                        "invalid": 0.6667325496673584
                     },
                     "tokens": {
                         "0": {
@@ -3380,7 +3380,7 @@
                         },
                         "11": {
                             "logit_value": 15.947187423706055,
-                            "completed_sentence": " Oregon",
+                            "completed_sentence": "\u2423Oregon",
                             "group": "invalid"
                         },
                         "12": {
@@ -3400,7 +3400,7 @@
                         },
                         "15": {
                             "logit_value": 15.869062423706055,
-                            "completed_sentence": " Vermont",
+                            "completed_sentence": "\u2423Vermont",
                             "group": "invalid"
                         },
                         "16": {
@@ -3420,27 +3420,27 @@
                         },
                         "19": {
                             "logit_value": 15.803438186645508,
-                            "completed_sentence": " Alaska",
+                            "completed_sentence": "\u2423Alaska",
                             "group": "invalid"
                         },
                         "20": {
                             "logit_value": 15.797187805175781,
-                            "completed_sentence": " Indiana",
+                            "completed_sentence": "\u2423Indiana",
                             "group": "invalid"
                         },
                         "21": {
                             "logit_value": 15.787813186645508,
-                            "completed_sentence": " Connecticut",
+                            "completed_sentence": "\u2423Connecticut",
                             "group": "invalid"
                         },
                         "22": {
                             "logit_value": 15.781562805175781,
-                            "completed_sentence": " Arizona",
+                            "completed_sentence": "\u2423Arizona",
                             "group": "invalid"
                         },
                         "23": {
                             "logit_value": 15.772188186645508,
-                            "completed_sentence": " Colorado",
+                            "completed_sentence": "\u2423Colorado",
                             "group": "invalid"
                         },
                         "24": {
@@ -3450,7 +3450,7 @@
                         },
                         "25": {
                             "logit_value": 15.753437042236328,
-                            "completed_sentence": " Massachusetts",
+                            "completed_sentence": "\u2423Massachusetts",
                             "group": "invalid"
                         },
                         "26": {
@@ -3466,7 +3466,7 @@
                         "28": {
                             "logit_value": 15.731561660766602,
                             "completed_sentence": "Carolina",
-                            "group": "invalid"
+                            "group": "valid_and_rare"
                         },
                         "29": {
                             "logit_value": 15.728437423706055,
@@ -3491,12 +3491,12 @@
                         "33": {
                             "logit_value": 15.706562042236328,
                             "completed_sentence": "olorado",
-                            "group": "invalid"
+                            "group": "valid_and_rare"
                         },
                         "34": {
                             "logit_value": 15.706562042236328,
                             "completed_sentence": "consin",
-                            "group": "invalid"
+                            "group": "valid_and_rare"
                         },
                         "35": {
                             "logit_value": 15.703437805175781,
@@ -3525,7 +3525,7 @@
                         },
                         "40": {
                             "logit_value": 15.690937042236328,
-                            "completed_sentence": " Connecticu",
+                            "completed_sentence": "\u2423Connecticu",
                             "group": "invalid"
                         },
                         "41": {
@@ -3560,7 +3560,7 @@
                         },
                         "47": {
                             "logit_value": 15.665937423706055,
-                            "completed_sentence": " kentucky",
+                            "completed_sentence": "\u2423kentucky",
                             "group": "invalid"
                         },
                         "48": {
@@ -3610,7 +3610,7 @@
                         },
                         "57": {
                             "logit_value": 15.647188186645508,
-                            "completed_sentence": " North Dakota",
+                            "completed_sentence": "\u2423North Dakota",
                             "group": "invalid"
                         },
                         "58": {
@@ -3742,7 +3742,7 @@
                         },
                         "16": {
                             "logit_value": 7.446875095367432,
-                            "completed_sentence": " \u5341",
+                            "completed_sentence": "\u2423\u5341",
                             "group": "invalid"
                         },
                         "17": {
@@ -3792,7 +3792,7 @@
                         },
                         "26": {
                             "logit_value": 7.446875095367432,
-                            "completed_sentence": " th\u00f4i",
+                            "completed_sentence": "\u2423th\u00f4i",
                             "group": "invalid"
                         },
                         "27": {
@@ -3802,7 +3802,7 @@
                         },
                         "28": {
                             "logit_value": 7.446875095367432,
-                            "completed_sentence": " fourteen",
+                            "completed_sentence": "\u2423fourteen",
                             "group": "invalid"
                         },
                         "29": {
@@ -3817,7 +3817,7 @@
                         },
                         "31": {
                             "logit_value": 7.446875095367432,
-                            "completed_sentence": "                            14",
+                            "completed_sentence": "\u2423                           14",
                             "group": "invalid"
                         },
                         "32": {
@@ -3847,7 +3847,7 @@
                         },
                         "37": {
                             "logit_value": 7.446875095367432,
-                            "completed_sentence": " kh\u1ea3o",
+                            "completed_sentence": "\u2423kh\u1ea3o",
                             "group": "invalid"
                         },
                         "38": {
@@ -3887,7 +3887,7 @@
                         },
                         "45": {
                             "logit_value": 7.446875095367432,
-                            "completed_sentence": " Teens",
+                            "completed_sentence": "\u2423Teens",
                             "group": "invalid"
                         },
                         "46": {
@@ -3897,7 +3897,7 @@
                         },
                         "47": {
                             "logit_value": 7.446875095367432,
-                            "completed_sentence": " adolescente",
+                            "completed_sentence": "\u2423adolescente",
                             "group": "invalid"
                         },
                         "48": {
@@ -3927,7 +3927,7 @@
                         },
                         "53": {
                             "logit_value": 7.446875095367432,
-                            "completed_sentence": " mi\u00eau",
+                            "completed_sentence": "\u2423mi\u00eau",
                             "group": "invalid"
                         },
                         "54": {
@@ -3972,7 +3972,7 @@
                         },
                         "62": {
                             "logit_value": 7.446875095367432,
-                            "completed_sentence": " ho\u00e1",
+                            "completed_sentence": "\u2423ho\u00e1",
                             "group": "invalid"
                         },
                         "63": {
@@ -4073,7 +4073,7 @@
                         },
                         "16": {
                             "logit_value": -174.74996948242188,
-                            "completed_sentence": " \u5341",
+                            "completed_sentence": "\u2423\u5341",
                             "group": "invalid"
                         },
                         "17": {
@@ -4123,7 +4123,7 @@
                         },
                         "26": {
                             "logit_value": -182.24996948242188,
-                            "completed_sentence": " th\u00f4i",
+                            "completed_sentence": "\u2423th\u00f4i",
                             "group": "invalid"
                         },
                         "27": {
@@ -4133,7 +4133,7 @@
                         },
                         "28": {
                             "logit_value": -184.12496948242188,
-                            "completed_sentence": " fourteen",
+                            "completed_sentence": "\u2423fourteen",
                             "group": "invalid"
                         },
                         "29": {
@@ -4148,7 +4148,7 @@
                         },
                         "31": {
                             "logit_value": -185.99996948242188,
-                            "completed_sentence": "                            14",
+                            "completed_sentence": "\u2423                           14",
                             "group": "invalid"
                         },
                         "32": {
@@ -4178,7 +4178,7 @@
                         },
                         "37": {
                             "logit_value": -188.49996948242188,
-                            "completed_sentence": " kh\u1ea3o",
+                            "completed_sentence": "\u2423kh\u1ea3o",
                             "group": "invalid"
                         },
                         "38": {
@@ -4218,7 +4218,7 @@
                         },
                         "45": {
                             "logit_value": -191.62496948242188,
-                            "completed_sentence": " Teens",
+                            "completed_sentence": "\u2423Teens",
                             "group": "invalid"
                         },
                         "46": {
@@ -4228,7 +4228,7 @@
                         },
                         "47": {
                             "logit_value": -192.24996948242188,
-                            "completed_sentence": " adolescente",
+                            "completed_sentence": "\u2423adolescente",
                             "group": "invalid"
                         },
                         "48": {
@@ -4258,7 +4258,7 @@
                         },
                         "53": {
                             "logit_value": -194.12496948242188,
-                            "completed_sentence": " mi\u00eau",
+                            "completed_sentence": "\u2423mi\u00eau",
                             "group": "invalid"
                         },
                         "54": {
@@ -4303,7 +4303,7 @@
                         },
                         "62": {
                             "logit_value": -195.99996948242188,
-                            "completed_sentence": " ho\u00e1",
+                            "completed_sentence": "\u2423ho\u00e1",
                             "group": "invalid"
                         },
                         "63": {
@@ -4404,7 +4404,7 @@
                         },
                         "16": {
                             "logit_value": -9.75,
-                            "completed_sentence": " \u5341",
+                            "completed_sentence": "\u2423\u5341",
                             "group": "invalid"
                         },
                         "17": {
@@ -4454,7 +4454,7 @@
                         },
                         "26": {
                             "logit_value": -11.25,
-                            "completed_sentence": " th\u00f4i",
+                            "completed_sentence": "\u2423th\u00f4i",
                             "group": "invalid"
                         },
                         "27": {
@@ -4464,7 +4464,7 @@
                         },
                         "28": {
                             "logit_value": -11.625,
-                            "completed_sentence": " fourteen",
+                            "completed_sentence": "\u2423fourteen",
                             "group": "invalid"
                         },
                         "29": {
@@ -4479,7 +4479,7 @@
                         },
                         "31": {
                             "logit_value": -12.0,
-                            "completed_sentence": "                            14",
+                            "completed_sentence": "\u2423                           14",
                             "group": "invalid"
                         },
                         "32": {
@@ -4509,7 +4509,7 @@
                         },
                         "37": {
                             "logit_value": -12.5,
-                            "completed_sentence": " kh\u1ea3o",
+                            "completed_sentence": "\u2423kh\u1ea3o",
                             "group": "invalid"
                         },
                         "38": {
@@ -4549,7 +4549,7 @@
                         },
                         "45": {
                             "logit_value": -13.125,
-                            "completed_sentence": " Teens",
+                            "completed_sentence": "\u2423Teens",
                             "group": "invalid"
                         },
                         "46": {
@@ -4559,7 +4559,7 @@
                         },
                         "47": {
                             "logit_value": -13.25,
-                            "completed_sentence": " adolescente",
+                            "completed_sentence": "\u2423adolescente",
                             "group": "invalid"
                         },
                         "48": {
@@ -4589,7 +4589,7 @@
                         },
                         "53": {
                             "logit_value": -13.625,
-                            "completed_sentence": " mi\u00eau",
+                            "completed_sentence": "\u2423mi\u00eau",
                             "group": "invalid"
                         },
                         "54": {
@@ -4634,7 +4634,7 @@
                         },
                         "62": {
                             "logit_value": -14.0,
-                            "completed_sentence": " ho\u00e1",
+                            "completed_sentence": "\u2423ho\u00e1",
                             "group": "invalid"
                         },
                         "63": {
@@ -4735,7 +4735,7 @@
                         },
                         "16": {
                             "logit_value": 5.71875,
-                            "completed_sentence": " \u5341",
+                            "completed_sentence": "\u2423\u5341",
                             "group": "invalid"
                         },
                         "17": {
@@ -4785,7 +4785,7 @@
                         },
                         "26": {
                             "logit_value": 4.78125,
-                            "completed_sentence": " th\u00f4i",
+                            "completed_sentence": "\u2423th\u00f4i",
                             "group": "invalid"
                         },
                         "27": {
@@ -4795,7 +4795,7 @@
                         },
                         "28": {
                             "logit_value": 4.546875,
-                            "completed_sentence": " fourteen",
+                            "completed_sentence": "\u2423fourteen",
                             "group": "invalid"
                         },
                         "29": {
@@ -4810,7 +4810,7 @@
                         },
                         "31": {
                             "logit_value": 4.3125,
-                            "completed_sentence": "                            14",
+                            "completed_sentence": "\u2423                           14",
                             "group": "invalid"
                         },
                         "32": {
@@ -4840,7 +4840,7 @@
                         },
                         "37": {
                             "logit_value": 4.0,
-                            "completed_sentence": " kh\u1ea3o",
+                            "completed_sentence": "\u2423kh\u1ea3o",
                             "group": "invalid"
                         },
                         "38": {
@@ -4880,7 +4880,7 @@
                         },
                         "45": {
                             "logit_value": 3.609375,
-                            "completed_sentence": " Teens",
+                            "completed_sentence": "\u2423Teens",
                             "group": "invalid"
                         },
                         "46": {
@@ -4890,7 +4890,7 @@
                         },
                         "47": {
                             "logit_value": 3.53125,
-                            "completed_sentence": " adolescente",
+                            "completed_sentence": "\u2423adolescente",
                             "group": "invalid"
                         },
                         "48": {
@@ -4920,7 +4920,7 @@
                         },
                         "53": {
                             "logit_value": 3.296875,
-                            "completed_sentence": " mi\u00eau",
+                            "completed_sentence": "\u2423mi\u00eau",
                             "group": "invalid"
                         },
                         "54": {
@@ -4965,7 +4965,7 @@
                         },
                         "62": {
                             "logit_value": 3.0625,
-                            "completed_sentence": " ho\u00e1",
+                            "completed_sentence": "\u2423ho\u00e1",
                             "group": "invalid"
                         },
                         "63": {
@@ -5066,7 +5066,7 @@
                         },
                         "16": {
                             "logit_value": 10.875,
-                            "completed_sentence": " \u5341",
+                            "completed_sentence": "\u2423\u5341",
                             "group": "invalid"
                         },
                         "17": {
@@ -5116,7 +5116,7 @@
                         },
                         "26": {
                             "logit_value": 10.125,
-                            "completed_sentence": " th\u00f4i",
+                            "completed_sentence": "\u2423th\u00f4i",
                             "group": "invalid"
                         },
                         "27": {
@@ -5126,7 +5126,7 @@
                         },
                         "28": {
                             "logit_value": 9.9375,
-                            "completed_sentence": " fourteen",
+                            "completed_sentence": "\u2423fourteen",
                             "group": "invalid"
                         },
                         "29": {
@@ -5141,7 +5141,7 @@
                         },
                         "31": {
                             "logit_value": 9.75,
-                            "completed_sentence": "                            14",
+                            "completed_sentence": "\u2423                           14",
                             "group": "invalid"
                         },
                         "32": {
@@ -5171,7 +5171,7 @@
                         },
                         "37": {
                             "logit_value": 9.5,
-                            "completed_sentence": " kh\u1ea3o",
+                            "completed_sentence": "\u2423kh\u1ea3o",
                             "group": "invalid"
                         },
                         "38": {
@@ -5211,7 +5211,7 @@
                         },
                         "45": {
                             "logit_value": 9.1875,
-                            "completed_sentence": " Teens",
+                            "completed_sentence": "\u2423Teens",
                             "group": "invalid"
                         },
                         "46": {
@@ -5221,7 +5221,7 @@
                         },
                         "47": {
                             "logit_value": 9.125,
-                            "completed_sentence": " adolescente",
+                            "completed_sentence": "\u2423adolescente",
                             "group": "invalid"
                         },
                         "48": {
@@ -5251,7 +5251,7 @@
                         },
                         "53": {
                             "logit_value": 8.9375,
-                            "completed_sentence": " mi\u00eau",
+                            "completed_sentence": "\u2423mi\u00eau",
                             "group": "invalid"
                         },
                         "54": {
@@ -5296,7 +5296,7 @@
                         },
                         "62": {
                             "logit_value": 8.75,
-                            "completed_sentence": " ho\u00e1",
+                            "completed_sentence": "\u2423ho\u00e1",
                             "group": "invalid"
                         },
                         "63": {
@@ -5397,7 +5397,7 @@
                         },
                         "16": {
                             "logit_value": 13.529687881469727,
-                            "completed_sentence": " \u5341",
+                            "completed_sentence": "\u2423\u5341",
                             "group": "invalid"
                         },
                         "17": {
@@ -5447,7 +5447,7 @@
                         },
                         "26": {
                             "logit_value": 13.029687881469727,
-                            "completed_sentence": " th\u00f4i",
+                            "completed_sentence": "\u2423th\u00f4i",
                             "group": "invalid"
                         },
                         "27": {
@@ -5457,7 +5457,7 @@
                         },
                         "28": {
                             "logit_value": 12.904687881469727,
-                            "completed_sentence": " fourteen",
+                            "completed_sentence": "\u2423fourteen",
                             "group": "invalid"
                         },
                         "29": {
@@ -5472,7 +5472,7 @@
                         },
                         "31": {
                             "logit_value": 12.779687881469727,
-                            "completed_sentence": "                            14",
+                            "completed_sentence": "\u2423                           14",
                             "group": "invalid"
                         },
                         "32": {
@@ -5502,7 +5502,7 @@
                         },
                         "37": {
                             "logit_value": 12.613020896911621,
-                            "completed_sentence": " kh\u1ea3o",
+                            "completed_sentence": "\u2423kh\u1ea3o",
                             "group": "invalid"
                         },
                         "38": {
@@ -5542,7 +5542,7 @@
                         },
                         "45": {
                             "logit_value": 12.404687881469727,
-                            "completed_sentence": " Teens",
+                            "completed_sentence": "\u2423Teens",
                             "group": "invalid"
                         },
                         "46": {
@@ -5552,7 +5552,7 @@
                         },
                         "47": {
                             "logit_value": 12.363020896911621,
-                            "completed_sentence": " adolescente",
+                            "completed_sentence": "\u2423adolescente",
                             "group": "invalid"
                         },
                         "48": {
@@ -5582,7 +5582,7 @@
                         },
                         "53": {
                             "logit_value": 12.238020896911621,
-                            "completed_sentence": " mi\u00eau",
+                            "completed_sentence": "\u2423mi\u00eau",
                             "group": "invalid"
                         },
                         "54": {
@@ -5627,7 +5627,7 @@
                         },
                         "62": {
                             "logit_value": 12.113020896911621,
-                            "completed_sentence": " ho\u00e1",
+                            "completed_sentence": "\u2423ho\u00e1",
                             "group": "invalid"
                         },
                         "63": {
@@ -5728,7 +5728,7 @@
                         },
                         "16": {
                             "logit_value": 15.569791793823242,
-                            "completed_sentence": " \u5341",
+                            "completed_sentence": "\u2423\u5341",
                             "group": "invalid"
                         },
                         "17": {
@@ -5778,7 +5778,7 @@
                         },
                         "26": {
                             "logit_value": 15.269792556762695,
-                            "completed_sentence": " th\u00f4i",
+                            "completed_sentence": "\u2423th\u00f4i",
                             "group": "invalid"
                         },
                         "27": {
@@ -5788,7 +5788,7 @@
                         },
                         "28": {
                             "logit_value": 15.194791793823242,
-                            "completed_sentence": " fourteen",
+                            "completed_sentence": "\u2423fourteen",
                             "group": "invalid"
                         },
                         "29": {
@@ -5803,7 +5803,7 @@
                         },
                         "31": {
                             "logit_value": 15.119791030883789,
-                            "completed_sentence": "                            14",
+                            "completed_sentence": "\u2423                           14",
                             "group": "invalid"
                         },
                         "32": {
@@ -5833,7 +5833,7 @@
                         },
                         "37": {
                             "logit_value": 15.019791603088379,
-                            "completed_sentence": " kh\u1ea3o",
+                            "completed_sentence": "\u2423kh\u1ea3o",
                             "group": "invalid"
                         },
                         "38": {
@@ -5873,7 +5873,7 @@
                         },
                         "45": {
                             "logit_value": 14.894791603088379,
-                            "completed_sentence": " Teens",
+                            "completed_sentence": "\u2423Teens",
                             "group": "invalid"
                         },
                         "46": {
@@ -5883,7 +5883,7 @@
                         },
                         "47": {
                             "logit_value": 14.869791030883789,
-                            "completed_sentence": " adolescente",
+                            "completed_sentence": "\u2423adolescente",
                             "group": "invalid"
                         },
                         "48": {
@@ -5913,7 +5913,7 @@
                         },
                         "53": {
                             "logit_value": 14.794791221618652,
-                            "completed_sentence": " mi\u00eau",
+                            "completed_sentence": "\u2423mi\u00eau",
                             "group": "invalid"
                         },
                         "54": {
@@ -5958,7 +5958,7 @@
                         },
                         "62": {
                             "logit_value": 14.719791412353516,
-                            "completed_sentence": " ho\u00e1",
+                            "completed_sentence": "\u2423ho\u00e1",
                             "group": "invalid"
                         },
                         "63": {
@@ -6059,7 +6059,7 @@
                         },
                         "16": {
                             "logit_value": 15.766146659851074,
-                            "completed_sentence": " \u5341",
+                            "completed_sentence": "\u2423\u5341",
                             "group": "invalid"
                         },
                         "17": {
@@ -6109,7 +6109,7 @@
                         },
                         "26": {
                             "logit_value": 15.516146659851074,
-                            "completed_sentence": " th\u00f4i",
+                            "completed_sentence": "\u2423th\u00f4i",
                             "group": "invalid"
                         },
                         "27": {
@@ -6119,7 +6119,7 @@
                         },
                         "28": {
                             "logit_value": 15.453646659851074,
-                            "completed_sentence": " fourteen",
+                            "completed_sentence": "\u2423fourteen",
                             "group": "invalid"
                         },
                         "29": {
@@ -6134,7 +6134,7 @@
                         },
                         "31": {
                             "logit_value": 15.391146659851074,
-                            "completed_sentence": "                            14",
+                            "completed_sentence": "\u2423                           14",
                             "group": "invalid"
                         },
                         "32": {
@@ -6164,7 +6164,7 @@
                         },
                         "37": {
                             "logit_value": 15.307812690734863,
-                            "completed_sentence": " kh\u1ea3o",
+                            "completed_sentence": "\u2423kh\u1ea3o",
                             "group": "invalid"
                         },
                         "38": {
@@ -6204,7 +6204,7 @@
                         },
                         "45": {
                             "logit_value": 15.203646659851074,
-                            "completed_sentence": " Teens",
+                            "completed_sentence": "\u2423Teens",
                             "group": "invalid"
                         },
                         "46": {
@@ -6214,7 +6214,7 @@
                         },
                         "47": {
                             "logit_value": 15.182812690734863,
-                            "completed_sentence": " adolescente",
+                            "completed_sentence": "\u2423adolescente",
                             "group": "invalid"
                         },
                         "48": {
@@ -6244,7 +6244,7 @@
                         },
                         "53": {
                             "logit_value": 15.120312690734863,
-                            "completed_sentence": " mi\u00eau",
+                            "completed_sentence": "\u2423mi\u00eau",
                             "group": "invalid"
                         },
                         "54": {
@@ -6289,7 +6289,7 @@
                         },
                         "62": {
                             "logit_value": 15.057812690734863,
-                            "completed_sentence": " ho\u00e1",
+                            "completed_sentence": "\u2423ho\u00e1",
                             "group": "invalid"
                         },
                         "63": {
@@ -6390,7 +6390,7 @@
                         },
                         "16": {
                             "logit_value": 16.577083587646484,
-                            "completed_sentence": " \u5341",
+                            "completed_sentence": "\u2423\u5341",
                             "group": "invalid"
                         },
                         "17": {
@@ -6440,7 +6440,7 @@
                         },
                         "26": {
                             "logit_value": 16.42708396911621,
-                            "completed_sentence": " th\u00f4i",
+                            "completed_sentence": "\u2423th\u00f4i",
                             "group": "invalid"
                         },
                         "27": {
@@ -6450,7 +6450,7 @@
                         },
                         "28": {
                             "logit_value": 16.389583587646484,
-                            "completed_sentence": " fourteen",
+                            "completed_sentence": "\u2423fourteen",
                             "group": "invalid"
                         },
                         "29": {
@@ -6465,7 +6465,7 @@
                         },
                         "31": {
                             "logit_value": 16.35208511352539,
-                            "completed_sentence": "                            14",
+                            "completed_sentence": "\u2423                           14",
                             "group": "invalid"
                         },
                         "32": {
@@ -6495,7 +6495,7 @@
                         },
                         "37": {
                             "logit_value": 16.30208396911621,
-                            "completed_sentence": " kh\u1ea3o",
+                            "completed_sentence": "\u2423kh\u1ea3o",
                             "group": "invalid"
                         },
                         "38": {
@@ -6535,7 +6535,7 @@
                         },
                         "45": {
                             "logit_value": 16.23958396911621,
-                            "completed_sentence": " Teens",
+                            "completed_sentence": "\u2423Teens",
                             "group": "invalid"
                         },
                         "46": {
@@ -6545,7 +6545,7 @@
                         },
                         "47": {
                             "logit_value": 16.22708511352539,
-                            "completed_sentence": " adolescente",
+                            "completed_sentence": "\u2423adolescente",
                             "group": "invalid"
                         },
                         "48": {
@@ -6575,7 +6575,7 @@
                         },
                         "53": {
                             "logit_value": 16.189584732055664,
-                            "completed_sentence": " mi\u00eau",
+                            "completed_sentence": "\u2423mi\u00eau",
                             "group": "invalid"
                         },
                         "54": {
@@ -6620,7 +6620,7 @@
                         },
                         "62": {
                             "logit_value": 16.152084350585938,
-                            "completed_sentence": " ho\u00e1",
+                            "completed_sentence": "\u2423ho\u00e1",
                             "group": "invalid"
                         },
                         "63": {
@@ -6721,7 +6721,7 @@
                         },
                         "16": {
                             "logit_value": 17.08072853088379,
-                            "completed_sentence": " \u5341",
+                            "completed_sentence": "\u2423\u5341",
                             "group": "invalid"
                         },
                         "17": {
@@ -6771,7 +6771,7 @@
                         },
                         "26": {
                             "logit_value": 17.00572967529297,
-                            "completed_sentence": " th\u00f4i",
+                            "completed_sentence": "\u2423th\u00f4i",
                             "group": "invalid"
                         },
                         "27": {
@@ -6781,7 +6781,7 @@
                         },
                         "28": {
                             "logit_value": 16.98697853088379,
-                            "completed_sentence": " fourteen",
+                            "completed_sentence": "\u2423fourteen",
                             "group": "invalid"
                         },
                         "29": {
@@ -6796,7 +6796,7 @@
                         },
                         "31": {
                             "logit_value": 16.968229293823242,
-                            "completed_sentence": "                            14",
+                            "completed_sentence": "\u2423                           14",
                             "group": "invalid"
                         },
                         "32": {
@@ -6826,7 +6826,7 @@
                         },
                         "37": {
                             "logit_value": 16.94322967529297,
-                            "completed_sentence": " kh\u1ea3o",
+                            "completed_sentence": "\u2423kh\u1ea3o",
                             "group": "invalid"
                         },
                         "38": {
@@ -6866,7 +6866,7 @@
                         },
                         "45": {
                             "logit_value": 16.91197967529297,
-                            "completed_sentence": " Teens",
+                            "completed_sentence": "\u2423Teens",
                             "group": "invalid"
                         },
                         "46": {
@@ -6876,7 +6876,7 @@
                         },
                         "47": {
                             "logit_value": 16.905729293823242,
-                            "completed_sentence": " adolescente",
+                            "completed_sentence": "\u2423adolescente",
                             "group": "invalid"
                         },
                         "48": {
@@ -6906,7 +6906,7 @@
                         },
                         "53": {
                             "logit_value": 16.886978149414062,
-                            "completed_sentence": " mi\u00eau",
+                            "completed_sentence": "\u2423mi\u00eau",
                             "group": "invalid"
                         },
                         "54": {
@@ -6951,7 +6951,7 @@
                         },
                         "62": {
                             "logit_value": 16.868228912353516,
-                            "completed_sentence": " ho\u00e1",
+                            "completed_sentence": "\u2423ho\u00e1",
                             "group": "invalid"
                         },
                         "63": {
@@ -7052,7 +7052,7 @@
                         },
                         "16": {
                             "logit_value": 17.123437881469727,
-                            "completed_sentence": " \u5341",
+                            "completed_sentence": "\u2423\u5341",
                             "group": "invalid"
                         },
                         "17": {
@@ -7102,7 +7102,7 @@
                         },
                         "26": {
                             "logit_value": 17.0859375,
-                            "completed_sentence": " th\u00f4i",
+                            "completed_sentence": "\u2423th\u00f4i",
                             "group": "invalid"
                         },
                         "27": {
@@ -7112,7 +7112,7 @@
                         },
                         "28": {
                             "logit_value": 17.076562881469727,
-                            "completed_sentence": " fourteen",
+                            "completed_sentence": "\u2423fourteen",
                             "group": "invalid"
                         },
                         "29": {
@@ -7127,7 +7127,7 @@
                         },
                         "31": {
                             "logit_value": 17.06718635559082,
-                            "completed_sentence": "                            14",
+                            "completed_sentence": "\u2423                           14",
                             "group": "invalid"
                         },
                         "32": {
@@ -7157,7 +7157,7 @@
                         },
                         "37": {
                             "logit_value": 17.0546875,
-                            "completed_sentence": " kh\u1ea3o",
+                            "completed_sentence": "\u2423kh\u1ea3o",
                             "group": "invalid"
                         },
                         "38": {
@@ -7197,7 +7197,7 @@
                         },
                         "45": {
                             "logit_value": 17.0390625,
-                            "completed_sentence": " Teens",
+                            "completed_sentence": "\u2423Teens",
                             "group": "invalid"
                         },
                         "46": {
@@ -7207,7 +7207,7 @@
                         },
                         "47": {
                             "logit_value": 17.03593635559082,
-                            "completed_sentence": " adolescente",
+                            "completed_sentence": "\u2423adolescente",
                             "group": "invalid"
                         },
                         "48": {
@@ -7237,7 +7237,7 @@
                         },
                         "53": {
                             "logit_value": 17.026561737060547,
-                            "completed_sentence": " mi\u00eau",
+                            "completed_sentence": "\u2423mi\u00eau",
                             "group": "invalid"
                         },
                         "54": {
@@ -7282,7 +7282,7 @@
                         },
                         "62": {
                             "logit_value": 17.017187118530273,
-                            "completed_sentence": " ho\u00e1",
+                            "completed_sentence": "\u2423ho\u00e1",
                             "group": "invalid"
                         },
                         "63": {
@@ -7337,7 +7337,7 @@
                         "5": {
                             "logit_value": 2.112499952316284,
                             "completed_sentence": "Minn",
-                            "group": "invalid"
+                            "group": "valid_and_rare"
                         },
                         "6": {
                             "logit_value": 2.112499952316284,
@@ -7346,12 +7346,12 @@
                         },
                         "7": {
                             "logit_value": 2.112499952316284,
-                            "completed_sentence": " Texas",
+                            "completed_sentence": "\u2423Texas",
                             "group": "invalid"
                         },
                         "8": {
                             "logit_value": 2.112499952316284,
-                            "completed_sentence": " California",
+                            "completed_sentence": "\u2423California",
                             "group": "invalid"
                         },
                         "9": {
@@ -7371,7 +7371,7 @@
                         },
                         "12": {
                             "logit_value": 2.112499952316284,
-                            "completed_sentence": " Alabama",
+                            "completed_sentence": "\u2423Alabama",
                             "group": "invalid"
                         },
                         "13": {
@@ -7386,7 +7386,7 @@
                         },
                         "15": {
                             "logit_value": 2.112499952316284,
-                            "completed_sentence": " Georgia",
+                            "completed_sentence": "\u2423Georgia",
                             "group": "invalid"
                         },
                         "16": {
@@ -7396,7 +7396,7 @@
                         },
                         "17": {
                             "logit_value": 2.112499952316284,
-                            "completed_sentence": " rhode island",
+                            "completed_sentence": "\u2423rhode island",
                             "group": "invalid"
                         },
                         "18": {
@@ -7416,7 +7416,7 @@
                         },
                         "21": {
                             "logit_value": 2.112499952316284,
-                            "completed_sentence": " Maryland",
+                            "completed_sentence": "\u2423Maryland",
                             "group": "invalid"
                         },
                         "22": {
@@ -7426,12 +7426,12 @@
                         },
                         "23": {
                             "logit_value": 2.112499952316284,
-                            "completed_sentence": " florida",
+                            "completed_sentence": "\u2423florida",
                             "group": "invalid"
                         },
                         "24": {
                             "logit_value": 2.112499952316284,
-                            "completed_sentence": " Illinois",
+                            "completed_sentence": "\u2423Illinois",
                             "group": "invalid"
                         },
                         "25": {
@@ -7441,17 +7441,17 @@
                         },
                         "26": {
                             "logit_value": 2.112499952316284,
-                            "completed_sentence": " New Hampshire",
+                            "completed_sentence": "\u2423New Hampshire",
                             "group": "invalid"
                         },
                         "27": {
                             "logit_value": 2.112499952316284,
-                            "completed_sentence": " CALIFORNIA",
+                            "completed_sentence": "\u2423CALIFORNIA",
                             "group": "invalid"
                         },
                         "28": {
                             "logit_value": 2.112499952316284,
-                            "completed_sentence": " Iowa",
+                            "completed_sentence": "\u2423Iowa",
                             "group": "invalid"
                         },
                         "29": {
@@ -7461,12 +7461,12 @@
                         },
                         "30": {
                             "logit_value": 2.112499952316284,
-                            "completed_sentence": "\nCalifornia",
+                            "completed_sentence": "\u2423California",
                             "group": "invalid"
                         },
                         "31": {
                             "logit_value": 2.112499952316284,
-                            "completed_sentence": " tx",
+                            "completed_sentence": "\u2423tx",
                             "group": "invalid"
                         },
                         "32": {
@@ -7476,7 +7476,7 @@
                         },
                         "33": {
                             "logit_value": 2.112499952316284,
-                            "completed_sentence": " Texans",
+                            "completed_sentence": "\u2423Texans",
                             "group": "invalid"
                         },
                         "34": {
@@ -7521,7 +7521,7 @@
                         },
                         "42": {
                             "logit_value": 2.112499952316284,
-                            "completed_sentence": " COLORADO",
+                            "completed_sentence": "\u2423COLORADO",
                             "group": "invalid"
                         },
                         "43": {
@@ -7536,7 +7536,7 @@
                         },
                         "45": {
                             "logit_value": 2.112499952316284,
-                            "completed_sentence": " Minnesota",
+                            "completed_sentence": "\u2423Minnesota",
                             "group": "invalid"
                         },
                         "46": {
@@ -7556,7 +7556,7 @@
                         },
                         "49": {
                             "logit_value": 2.112499952316284,
-                            "completed_sentence": " Hokkaido",
+                            "completed_sentence": "\u2423Hokkaido",
                             "group": "invalid"
                         },
                         "50": {
@@ -7566,7 +7566,7 @@
                         },
                         "51": {
                             "logit_value": 2.112499952316284,
-                            "completed_sentence": " DELAWARE",
+                            "completed_sentence": "\u2423DELAWARE",
                             "group": "invalid"
                         },
                         "52": {
@@ -7576,7 +7576,7 @@
                         },
                         "53": {
                             "logit_value": 2.112499952316284,
-                            "completed_sentence": " CONNECTICUT",
+                            "completed_sentence": "\u2423CONNECTICUT",
                             "group": "invalid"
                         },
                         "54": {
@@ -7636,8 +7636,8 @@
                     "ylim_min": 2.2125,
                     "__temperature_rates": {
                         "valid_and_frequent": 1.0,
-                        "valid_and_rare": 4.4431526600302584e-14,
-                        "invalid": 9.615580221212881e-17
+                        "valid_and_rare": 4.4527607241575534e-14,
+                        "invalid": 7.431680136390794e-20
                     },
                     "tokens": {
                         "0": {
@@ -7668,7 +7668,7 @@
                         "5": {
                             "logit_value": 2.112499952316284,
                             "completed_sentence": "Minn",
-                            "group": "invalid"
+                            "group": "valid_and_rare"
                         },
                         "6": {
                             "logit_value": 2.112499952316284,
@@ -7677,12 +7677,12 @@
                         },
                         "7": {
                             "logit_value": 2.112499952316284,
-                            "completed_sentence": " Texas",
+                            "completed_sentence": "\u2423Texas",
                             "group": "invalid"
                         },
                         "8": {
                             "logit_value": 2.112499952316284,
-                            "completed_sentence": " California",
+                            "completed_sentence": "\u2423California",
                             "group": "invalid"
                         },
                         "9": {
@@ -7702,7 +7702,7 @@
                         },
                         "12": {
                             "logit_value": 2.112499952316284,
-                            "completed_sentence": " Alabama",
+                            "completed_sentence": "\u2423Alabama",
                             "group": "invalid"
                         },
                         "13": {
@@ -7717,7 +7717,7 @@
                         },
                         "15": {
                             "logit_value": 2.112499952316284,
-                            "completed_sentence": " Georgia",
+                            "completed_sentence": "\u2423Georgia",
                             "group": "invalid"
                         },
                         "16": {
@@ -7727,7 +7727,7 @@
                         },
                         "17": {
                             "logit_value": 2.112499952316284,
-                            "completed_sentence": " rhode island",
+                            "completed_sentence": "\u2423rhode island",
                             "group": "invalid"
                         },
                         "18": {
@@ -7747,7 +7747,7 @@
                         },
                         "21": {
                             "logit_value": 2.112499952316284,
-                            "completed_sentence": " Maryland",
+                            "completed_sentence": "\u2423Maryland",
                             "group": "invalid"
                         },
                         "22": {
@@ -7757,12 +7757,12 @@
                         },
                         "23": {
                             "logit_value": 2.112499952316284,
-                            "completed_sentence": " florida",
+                            "completed_sentence": "\u2423florida",
                             "group": "invalid"
                         },
                         "24": {
                             "logit_value": 2.112499952316284,
-                            "completed_sentence": " Illinois",
+                            "completed_sentence": "\u2423Illinois",
                             "group": "invalid"
                         },
                         "25": {
@@ -7772,17 +7772,17 @@
                         },
                         "26": {
                             "logit_value": 2.112499952316284,
-                            "completed_sentence": " New Hampshire",
+                            "completed_sentence": "\u2423New Hampshire",
                             "group": "invalid"
                         },
                         "27": {
                             "logit_value": 2.112499952316284,
-                            "completed_sentence": " CALIFORNIA",
+                            "completed_sentence": "\u2423CALIFORNIA",
                             "group": "invalid"
                         },
                         "28": {
                             "logit_value": 2.112499952316284,
-                            "completed_sentence": " Iowa",
+                            "completed_sentence": "\u2423Iowa",
                             "group": "invalid"
                         },
                         "29": {
@@ -7792,12 +7792,12 @@
                         },
                         "30": {
                             "logit_value": 2.112499952316284,
-                            "completed_sentence": "\nCalifornia",
+                            "completed_sentence": "\u2423California",
                             "group": "invalid"
                         },
                         "31": {
                             "logit_value": 2.112499952316284,
-                            "completed_sentence": " tx",
+                            "completed_sentence": "\u2423tx",
                             "group": "invalid"
                         },
                         "32": {
@@ -7807,7 +7807,7 @@
                         },
                         "33": {
                             "logit_value": 2.112499952316284,
-                            "completed_sentence": " Texans",
+                            "completed_sentence": "\u2423Texans",
                             "group": "invalid"
                         },
                         "34": {
@@ -7852,7 +7852,7 @@
                         },
                         "42": {
                             "logit_value": 2.112499952316284,
-                            "completed_sentence": " COLORADO",
+                            "completed_sentence": "\u2423COLORADO",
                             "group": "invalid"
                         },
                         "43": {
@@ -7867,7 +7867,7 @@
                         },
                         "45": {
                             "logit_value": 2.112499952316284,
-                            "completed_sentence": " Minnesota",
+                            "completed_sentence": "\u2423Minnesota",
                             "group": "invalid"
                         },
                         "46": {
@@ -7887,7 +7887,7 @@
                         },
                         "49": {
                             "logit_value": 2.112499952316284,
-                            "completed_sentence": " Hokkaido",
+                            "completed_sentence": "\u2423Hokkaido",
                             "group": "invalid"
                         },
                         "50": {
@@ -7897,7 +7897,7 @@
                         },
                         "51": {
                             "logit_value": 2.112499952316284,
-                            "completed_sentence": " DELAWARE",
+                            "completed_sentence": "\u2423DELAWARE",
                             "group": "invalid"
                         },
                         "52": {
@@ -7907,7 +7907,7 @@
                         },
                         "53": {
                             "logit_value": 2.112499952316284,
-                            "completed_sentence": " CONNECTICUT",
+                            "completed_sentence": "\u2423CONNECTICUT",
                             "group": "invalid"
                         },
                         "54": {
@@ -7967,8 +7967,8 @@
                     "ylim_min": 2.2125,
                     "__temperature_rates": {
                         "valid_and_frequent": 0.9935364127159119,
-                        "valid_and_rare": 0.005808394867926836,
-                        "invalid": 0.0006552634877152741
+                        "valid_and_rare": 0.006270179059356451,
+                        "invalid": 0.00019347868510521948
                     },
                     "tokens": {
                         "0": {
@@ -7999,7 +7999,7 @@
                         "5": {
                             "logit_value": 4.8125,
                             "completed_sentence": "Minn",
-                            "group": "invalid"
+                            "group": "valid_and_rare"
                         },
                         "6": {
                             "logit_value": 4.0625,
@@ -8008,12 +8008,12 @@
                         },
                         "7": {
                             "logit_value": 3.375,
-                            "completed_sentence": " Texas",
+                            "completed_sentence": "\u2423Texas",
                             "group": "invalid"
                         },
                         "8": {
                             "logit_value": 2.625,
-                            "completed_sentence": " California",
+                            "completed_sentence": "\u2423California",
                             "group": "invalid"
                         },
                         "9": {
@@ -8033,7 +8033,7 @@
                         },
                         "12": {
                             "logit_value": 0.3125,
-                            "completed_sentence": " Alabama",
+                            "completed_sentence": "\u2423Alabama",
                             "group": "invalid"
                         },
                         "13": {
@@ -8048,7 +8048,7 @@
                         },
                         "15": {
                             "logit_value": -1.1875,
-                            "completed_sentence": " Georgia",
+                            "completed_sentence": "\u2423Georgia",
                             "group": "invalid"
                         },
                         "16": {
@@ -8058,7 +8058,7 @@
                         },
                         "17": {
                             "logit_value": -2.0625,
-                            "completed_sentence": " rhode island",
+                            "completed_sentence": "\u2423rhode island",
                             "group": "invalid"
                         },
                         "18": {
@@ -8078,7 +8078,7 @@
                         },
                         "21": {
                             "logit_value": -2.6875,
-                            "completed_sentence": " Maryland",
+                            "completed_sentence": "\u2423Maryland",
                             "group": "invalid"
                         },
                         "22": {
@@ -8088,12 +8088,12 @@
                         },
                         "23": {
                             "logit_value": -2.9375,
-                            "completed_sentence": " florida",
+                            "completed_sentence": "\u2423florida",
                             "group": "invalid"
                         },
                         "24": {
                             "logit_value": -3.1875,
-                            "completed_sentence": " Illinois",
+                            "completed_sentence": "\u2423Illinois",
                             "group": "invalid"
                         },
                         "25": {
@@ -8103,17 +8103,17 @@
                         },
                         "26": {
                             "logit_value": -3.75,
-                            "completed_sentence": " New Hampshire",
+                            "completed_sentence": "\u2423New Hampshire",
                             "group": "invalid"
                         },
                         "27": {
                             "logit_value": -3.8125,
-                            "completed_sentence": " CALIFORNIA",
+                            "completed_sentence": "\u2423CALIFORNIA",
                             "group": "invalid"
                         },
                         "28": {
                             "logit_value": -3.9375,
-                            "completed_sentence": " Iowa",
+                            "completed_sentence": "\u2423Iowa",
                             "group": "invalid"
                         },
                         "29": {
@@ -8123,12 +8123,12 @@
                         },
                         "30": {
                             "logit_value": -4.25,
-                            "completed_sentence": "\nCalifornia",
+                            "completed_sentence": "\u2423California",
                             "group": "invalid"
                         },
                         "31": {
                             "logit_value": -4.375,
-                            "completed_sentence": " tx",
+                            "completed_sentence": "\u2423tx",
                             "group": "invalid"
                         },
                         "32": {
@@ -8138,7 +8138,7 @@
                         },
                         "33": {
                             "logit_value": -4.71875,
-                            "completed_sentence": " Texans",
+                            "completed_sentence": "\u2423Texans",
                             "group": "invalid"
                         },
                         "34": {
@@ -8183,7 +8183,7 @@
                         },
                         "42": {
                             "logit_value": -5.5,
-                            "completed_sentence": " COLORADO",
+                            "completed_sentence": "\u2423COLORADO",
                             "group": "invalid"
                         },
                         "43": {
@@ -8198,7 +8198,7 @@
                         },
                         "45": {
                             "logit_value": -5.6875,
-                            "completed_sentence": " Minnesota",
+                            "completed_sentence": "\u2423Minnesota",
                             "group": "invalid"
                         },
                         "46": {
@@ -8218,7 +8218,7 @@
                         },
                         "49": {
                             "logit_value": -6.0,
-                            "completed_sentence": " Hokkaido",
+                            "completed_sentence": "\u2423Hokkaido",
                             "group": "invalid"
                         },
                         "50": {
@@ -8228,7 +8228,7 @@
                         },
                         "51": {
                             "logit_value": -6.125,
-                            "completed_sentence": " DELAWARE",
+                            "completed_sentence": "\u2423DELAWARE",
                             "group": "invalid"
                         },
                         "52": {
@@ -8238,7 +8238,7 @@
                         },
                         "53": {
                             "logit_value": -6.3125,
-                            "completed_sentence": " CONNECTICUT",
+                            "completed_sentence": "\u2423CONNECTICUT",
                             "group": "invalid"
                         },
                         "54": {
@@ -8298,8 +8298,8 @@
                     "ylim_min": 2.2125,
                     "__temperature_rates": {
                         "valid_and_frequent": 0.9317963123321533,
-                        "valid_and_rare": 0.055718209594488144,
-                        "invalid": 0.012485549785196781
+                        "valid_and_rare": 0.06097780913114548,
+                        "invalid": 0.007225954905152321
                     },
                     "tokens": {
                         "0": {
@@ -8330,7 +8330,7 @@
                         "5": {
                             "logit_value": 7.578125,
                             "completed_sentence": "Minn",
-                            "group": "invalid"
+                            "group": "valid_and_rare"
                         },
                         "6": {
                             "logit_value": 7.109375,
@@ -8339,12 +8339,12 @@
                         },
                         "7": {
                             "logit_value": 6.6796875,
-                            "completed_sentence": " Texas",
+                            "completed_sentence": "\u2423Texas",
                             "group": "invalid"
                         },
                         "8": {
                             "logit_value": 6.2109375,
-                            "completed_sentence": " California",
+                            "completed_sentence": "\u2423California",
                             "group": "invalid"
                         },
                         "9": {
@@ -8364,7 +8364,7 @@
                         },
                         "12": {
                             "logit_value": 4.765625,
-                            "completed_sentence": " Alabama",
+                            "completed_sentence": "\u2423Alabama",
                             "group": "invalid"
                         },
                         "13": {
@@ -8379,7 +8379,7 @@
                         },
                         "15": {
                             "logit_value": 3.828125,
-                            "completed_sentence": " Georgia",
+                            "completed_sentence": "\u2423Georgia",
                             "group": "invalid"
                         },
                         "16": {
@@ -8389,7 +8389,7 @@
                         },
                         "17": {
                             "logit_value": 3.28125,
-                            "completed_sentence": " rhode island",
+                            "completed_sentence": "\u2423rhode island",
                             "group": "invalid"
                         },
                         "18": {
@@ -8409,7 +8409,7 @@
                         },
                         "21": {
                             "logit_value": 2.890625,
-                            "completed_sentence": " Maryland",
+                            "completed_sentence": "\u2423Maryland",
                             "group": "invalid"
                         },
                         "22": {
@@ -8419,12 +8419,12 @@
                         },
                         "23": {
                             "logit_value": 2.734375,
-                            "completed_sentence": " florida",
+                            "completed_sentence": "\u2423florida",
                             "group": "invalid"
                         },
                         "24": {
                             "logit_value": 2.578125,
-                            "completed_sentence": " Illinois",
+                            "completed_sentence": "\u2423Illinois",
                             "group": "invalid"
                         },
                         "25": {
@@ -8434,17 +8434,17 @@
                         },
                         "26": {
                             "logit_value": 2.2265625,
-                            "completed_sentence": " New Hampshire",
+                            "completed_sentence": "\u2423New Hampshire",
                             "group": "invalid"
                         },
                         "27": {
                             "logit_value": 2.1875,
-                            "completed_sentence": " CALIFORNIA",
+                            "completed_sentence": "\u2423CALIFORNIA",
                             "group": "invalid"
                         },
                         "28": {
                             "logit_value": 2.109375,
-                            "completed_sentence": " Iowa",
+                            "completed_sentence": "\u2423Iowa",
                             "group": "invalid"
                         },
                         "29": {
@@ -8454,12 +8454,12 @@
                         },
                         "30": {
                             "logit_value": 1.9140625,
-                            "completed_sentence": "\nCalifornia",
+                            "completed_sentence": "\u2423California",
                             "group": "invalid"
                         },
                         "31": {
                             "logit_value": 1.8359375,
-                            "completed_sentence": " tx",
+                            "completed_sentence": "\u2423tx",
                             "group": "invalid"
                         },
                         "32": {
@@ -8469,7 +8469,7 @@
                         },
                         "33": {
                             "logit_value": 1.62109375,
-                            "completed_sentence": " Texans",
+                            "completed_sentence": "\u2423Texans",
                             "group": "invalid"
                         },
                         "34": {
@@ -8514,7 +8514,7 @@
                         },
                         "42": {
                             "logit_value": 1.1328125,
-                            "completed_sentence": " COLORADO",
+                            "completed_sentence": "\u2423COLORADO",
                             "group": "invalid"
                         },
                         "43": {
@@ -8529,7 +8529,7 @@
                         },
                         "45": {
                             "logit_value": 1.015625,
-                            "completed_sentence": " Minnesota",
+                            "completed_sentence": "\u2423Minnesota",
                             "group": "invalid"
                         },
                         "46": {
@@ -8549,7 +8549,7 @@
                         },
                         "49": {
                             "logit_value": 0.8203125,
-                            "completed_sentence": " Hokkaido",
+                            "completed_sentence": "\u2423Hokkaido",
                             "group": "invalid"
                         },
                         "50": {
@@ -8559,7 +8559,7 @@
                         },
                         "51": {
                             "logit_value": 0.7421875,
-                            "completed_sentence": " DELAWARE",
+                            "completed_sentence": "\u2423DELAWARE",
                             "group": "invalid"
                         },
                         "52": {
@@ -8569,7 +8569,7 @@
                         },
                         "53": {
                             "logit_value": 0.625,
-                            "completed_sentence": " CONNECTICUT",
+                            "completed_sentence": "\u2423CONNECTICUT",
                             "group": "invalid"
                         },
                         "54": {
@@ -8629,8 +8629,8 @@
                     "ylim_min": 2.2125,
                     "__temperature_rates": {
                         "valid_and_frequent": 0.856509804725647,
-                        "valid_and_rare": 0.10708864033222198,
-                        "invalid": 0.03640143573284149
+                        "valid_and_rare": 0.11773059517145157,
+                        "invalid": 0.02575947716832161
                     },
                     "tokens": {
                         "0": {
@@ -8661,7 +8661,7 @@
                         "5": {
                             "logit_value": 8.5,
                             "completed_sentence": "Minn",
-                            "group": "invalid"
+                            "group": "valid_and_rare"
                         },
                         "6": {
                             "logit_value": 8.125,
@@ -8670,12 +8670,12 @@
                         },
                         "7": {
                             "logit_value": 7.78125,
-                            "completed_sentence": " Texas",
+                            "completed_sentence": "\u2423Texas",
                             "group": "invalid"
                         },
                         "8": {
                             "logit_value": 7.40625,
-                            "completed_sentence": " California",
+                            "completed_sentence": "\u2423California",
                             "group": "invalid"
                         },
                         "9": {
@@ -8695,7 +8695,7 @@
                         },
                         "12": {
                             "logit_value": 6.25,
-                            "completed_sentence": " Alabama",
+                            "completed_sentence": "\u2423Alabama",
                             "group": "invalid"
                         },
                         "13": {
@@ -8710,7 +8710,7 @@
                         },
                         "15": {
                             "logit_value": 5.5,
-                            "completed_sentence": " Georgia",
+                            "completed_sentence": "\u2423Georgia",
                             "group": "invalid"
                         },
                         "16": {
@@ -8720,7 +8720,7 @@
                         },
                         "17": {
                             "logit_value": 5.0625,
-                            "completed_sentence": " rhode island",
+                            "completed_sentence": "\u2423rhode island",
                             "group": "invalid"
                         },
                         "18": {
@@ -8740,7 +8740,7 @@
                         },
                         "21": {
                             "logit_value": 4.75,
-                            "completed_sentence": " Maryland",
+                            "completed_sentence": "\u2423Maryland",
                             "group": "invalid"
                         },
                         "22": {
@@ -8750,12 +8750,12 @@
                         },
                         "23": {
                             "logit_value": 4.625,
-                            "completed_sentence": " florida",
+                            "completed_sentence": "\u2423florida",
                             "group": "invalid"
                         },
                         "24": {
                             "logit_value": 4.5,
-                            "completed_sentence": " Illinois",
+                            "completed_sentence": "\u2423Illinois",
                             "group": "invalid"
                         },
                         "25": {
@@ -8765,17 +8765,17 @@
                         },
                         "26": {
                             "logit_value": 4.21875,
-                            "completed_sentence": " New Hampshire",
+                            "completed_sentence": "\u2423New Hampshire",
                             "group": "invalid"
                         },
                         "27": {
                             "logit_value": 4.1875,
-                            "completed_sentence": " CALIFORNIA",
+                            "completed_sentence": "\u2423CALIFORNIA",
                             "group": "invalid"
                         },
                         "28": {
                             "logit_value": 4.125,
-                            "completed_sentence": " Iowa",
+                            "completed_sentence": "\u2423Iowa",
                             "group": "invalid"
                         },
                         "29": {
@@ -8785,12 +8785,12 @@
                         },
                         "30": {
                             "logit_value": 3.96875,
-                            "completed_sentence": "\nCalifornia",
+                            "completed_sentence": "\u2423California",
                             "group": "invalid"
                         },
                         "31": {
                             "logit_value": 3.90625,
-                            "completed_sentence": " tx",
+                            "completed_sentence": "\u2423tx",
                             "group": "invalid"
                         },
                         "32": {
@@ -8800,7 +8800,7 @@
                         },
                         "33": {
                             "logit_value": 3.734375,
-                            "completed_sentence": " Texans",
+                            "completed_sentence": "\u2423Texans",
                             "group": "invalid"
                         },
                         "34": {
@@ -8845,7 +8845,7 @@
                         },
                         "42": {
                             "logit_value": 3.34375,
-                            "completed_sentence": " COLORADO",
+                            "completed_sentence": "\u2423COLORADO",
                             "group": "invalid"
                         },
                         "43": {
@@ -8860,7 +8860,7 @@
                         },
                         "45": {
                             "logit_value": 3.25,
-                            "completed_sentence": " Minnesota",
+                            "completed_sentence": "\u2423Minnesota",
                             "group": "invalid"
                         },
                         "46": {
@@ -8880,7 +8880,7 @@
                         },
                         "49": {
                             "logit_value": 3.09375,
-                            "completed_sentence": " Hokkaido",
+                            "completed_sentence": "\u2423Hokkaido",
                             "group": "invalid"
                         },
                         "50": {
@@ -8890,7 +8890,7 @@
                         },
                         "51": {
                             "logit_value": 3.03125,
-                            "completed_sentence": " DELAWARE",
+                            "completed_sentence": "\u2423DELAWARE",
                             "group": "invalid"
                         },
                         "52": {
@@ -8900,7 +8900,7 @@
                         },
                         "53": {
                             "logit_value": 2.9375,
-                            "completed_sentence": " CONNECTICUT",
+                            "completed_sentence": "\u2423CONNECTICUT",
                             "group": "invalid"
                         },
                         "54": {
@@ -8960,8 +8960,8 @@
                     "ylim_min": 2.2125,
                     "__temperature_rates": {
                         "valid_and_frequent": 0.6376557946205139,
-                        "valid_and_rare": 0.2071717232465744,
-                        "invalid": 0.15517239272594452
+                        "valid_and_rare": 0.23035088181495667,
+                        "invalid": 0.13199324905872345
                     },
                     "tokens": {
                         "0": {
@@ -8992,7 +8992,7 @@
                         "5": {
                             "logit_value": 7.97166633605957,
                             "completed_sentence": "Minn",
-                            "group": "invalid"
+                            "group": "valid_and_rare"
                         },
                         "6": {
                             "logit_value": 7.72166633605957,
@@ -9001,12 +9001,12 @@
                         },
                         "7": {
                             "logit_value": 7.492499828338623,
-                            "completed_sentence": " Texas",
+                            "completed_sentence": "\u2423Texas",
                             "group": "invalid"
                         },
                         "8": {
                             "logit_value": 7.242499828338623,
-                            "completed_sentence": " California",
+                            "completed_sentence": "\u2423California",
                             "group": "invalid"
                         },
                         "9": {
@@ -9026,7 +9026,7 @@
                         },
                         "12": {
                             "logit_value": 6.47166633605957,
-                            "completed_sentence": " Alabama",
+                            "completed_sentence": "\u2423Alabama",
                             "group": "invalid"
                         },
                         "13": {
@@ -9041,7 +9041,7 @@
                         },
                         "15": {
                             "logit_value": 5.97166633605957,
-                            "completed_sentence": " Georgia",
+                            "completed_sentence": "\u2423Georgia",
                             "group": "invalid"
                         },
                         "16": {
@@ -9051,7 +9051,7 @@
                         },
                         "17": {
                             "logit_value": 5.679999828338623,
-                            "completed_sentence": " rhode island",
+                            "completed_sentence": "\u2423rhode island",
                             "group": "invalid"
                         },
                         "18": {
@@ -9071,7 +9071,7 @@
                         },
                         "21": {
                             "logit_value": 5.47166633605957,
-                            "completed_sentence": " Maryland",
+                            "completed_sentence": "\u2423Maryland",
                             "group": "invalid"
                         },
                         "22": {
@@ -9081,12 +9081,12 @@
                         },
                         "23": {
                             "logit_value": 5.388333320617676,
-                            "completed_sentence": " florida",
+                            "completed_sentence": "\u2423florida",
                             "group": "invalid"
                         },
                         "24": {
                             "logit_value": 5.304999828338623,
-                            "completed_sentence": " Illinois",
+                            "completed_sentence": "\u2423Illinois",
                             "group": "invalid"
                         },
                         "25": {
@@ -9096,17 +9096,17 @@
                         },
                         "26": {
                             "logit_value": 5.117499828338623,
-                            "completed_sentence": " New Hampshire",
+                            "completed_sentence": "\u2423New Hampshire",
                             "group": "invalid"
                         },
                         "27": {
                             "logit_value": 5.09666633605957,
-                            "completed_sentence": " CALIFORNIA",
+                            "completed_sentence": "\u2423CALIFORNIA",
                             "group": "invalid"
                         },
                         "28": {
                             "logit_value": 5.054999828338623,
-                            "completed_sentence": " Iowa",
+                            "completed_sentence": "\u2423Iowa",
                             "group": "invalid"
                         },
                         "29": {
@@ -9116,12 +9116,12 @@
                         },
                         "30": {
                             "logit_value": 4.950833320617676,
-                            "completed_sentence": "\nCalifornia",
+                            "completed_sentence": "\u2423California",
                             "group": "invalid"
                         },
                         "31": {
                             "logit_value": 4.90916633605957,
-                            "completed_sentence": " tx",
+                            "completed_sentence": "\u2423tx",
                             "group": "invalid"
                         },
                         "32": {
@@ -9131,7 +9131,7 @@
                         },
                         "33": {
                             "logit_value": 4.794583320617676,
-                            "completed_sentence": " Texans",
+                            "completed_sentence": "\u2423Texans",
                             "group": "invalid"
                         },
                         "34": {
@@ -9176,7 +9176,7 @@
                         },
                         "42": {
                             "logit_value": 4.53416633605957,
-                            "completed_sentence": " COLORADO",
+                            "completed_sentence": "\u2423COLORADO",
                             "group": "invalid"
                         },
                         "43": {
@@ -9191,7 +9191,7 @@
                         },
                         "45": {
                             "logit_value": 4.47166633605957,
-                            "completed_sentence": " Minnesota",
+                            "completed_sentence": "\u2423Minnesota",
                             "group": "invalid"
                         },
                         "46": {
@@ -9211,7 +9211,7 @@
                         },
                         "49": {
                             "logit_value": 4.367499828338623,
-                            "completed_sentence": " Hokkaido",
+                            "completed_sentence": "\u2423Hokkaido",
                             "group": "invalid"
                         },
                         "50": {
@@ -9221,7 +9221,7 @@
                         },
                         "51": {
                             "logit_value": 4.325833320617676,
-                            "completed_sentence": " DELAWARE",
+                            "completed_sentence": "\u2423DELAWARE",
                             "group": "invalid"
                         },
                         "52": {
@@ -9231,7 +9231,7 @@
                         },
                         "53": {
                             "logit_value": 4.263333320617676,
-                            "completed_sentence": " CONNECTICUT",
+                            "completed_sentence": "\u2423CONNECTICUT",
                             "group": "invalid"
                         },
                         "54": {
@@ -9291,8 +9291,8 @@
                     "ylim_min": 2.2125,
                     "__temperature_rates": {
                         "valid_and_frequent": 0.3516642451286316,
-                        "valid_and_rare": 0.2445075809955597,
-                        "invalid": 0.4038282036781311
+                        "valid_and_rare": 0.27871137857437134,
+                        "invalid": 0.36962440609931946
                     },
                     "tokens": {
                         "0": {
@@ -9323,7 +9323,7 @@
                         "5": {
                             "logit_value": 7.514166831970215,
                             "completed_sentence": "Minn",
-                            "group": "invalid"
+                            "group": "valid_and_rare"
                         },
                         "6": {
                             "logit_value": 7.364166736602783,
@@ -9332,12 +9332,12 @@
                         },
                         "7": {
                             "logit_value": 7.226666450500488,
-                            "completed_sentence": " Texas",
+                            "completed_sentence": "\u2423Texas",
                             "group": "invalid"
                         },
                         "8": {
                             "logit_value": 7.076666831970215,
-                            "completed_sentence": " California",
+                            "completed_sentence": "\u2423California",
                             "group": "invalid"
                         },
                         "9": {
@@ -9357,7 +9357,7 @@
                         },
                         "12": {
                             "logit_value": 6.614166736602783,
-                            "completed_sentence": " Alabama",
+                            "completed_sentence": "\u2423Alabama",
                             "group": "invalid"
                         },
                         "13": {
@@ -9372,7 +9372,7 @@
                         },
                         "15": {
                             "logit_value": 6.314167022705078,
-                            "completed_sentence": " Georgia",
+                            "completed_sentence": "\u2423Georgia",
                             "group": "invalid"
                         },
                         "16": {
@@ -9382,7 +9382,7 @@
                         },
                         "17": {
                             "logit_value": 6.139166831970215,
-                            "completed_sentence": " rhode island",
+                            "completed_sentence": "\u2423rhode island",
                             "group": "invalid"
                         },
                         "18": {
@@ -9402,7 +9402,7 @@
                         },
                         "21": {
                             "logit_value": 6.014166831970215,
-                            "completed_sentence": " Maryland",
+                            "completed_sentence": "\u2423Maryland",
                             "group": "invalid"
                         },
                         "22": {
@@ -9412,12 +9412,12 @@
                         },
                         "23": {
                             "logit_value": 5.964166641235352,
-                            "completed_sentence": " florida",
+                            "completed_sentence": "\u2423florida",
                             "group": "invalid"
                         },
                         "24": {
                             "logit_value": 5.914166450500488,
-                            "completed_sentence": " Illinois",
+                            "completed_sentence": "\u2423Illinois",
                             "group": "invalid"
                         },
                         "25": {
@@ -9427,17 +9427,17 @@
                         },
                         "26": {
                             "logit_value": 5.801666736602783,
-                            "completed_sentence": " New Hampshire",
+                            "completed_sentence": "\u2423New Hampshire",
                             "group": "invalid"
                         },
                         "27": {
                             "logit_value": 5.789166450500488,
-                            "completed_sentence": " CALIFORNIA",
+                            "completed_sentence": "\u2423CALIFORNIA",
                             "group": "invalid"
                         },
                         "28": {
                             "logit_value": 5.764166831970215,
-                            "completed_sentence": " Iowa",
+                            "completed_sentence": "\u2423Iowa",
                             "group": "invalid"
                         },
                         "29": {
@@ -9447,12 +9447,12 @@
                         },
                         "30": {
                             "logit_value": 5.701666831970215,
-                            "completed_sentence": "\nCalifornia",
+                            "completed_sentence": "\u2423California",
                             "group": "invalid"
                         },
                         "31": {
                             "logit_value": 5.676666736602783,
-                            "completed_sentence": " tx",
+                            "completed_sentence": "\u2423tx",
                             "group": "invalid"
                         },
                         "32": {
@@ -9462,7 +9462,7 @@
                         },
                         "33": {
                             "logit_value": 5.607916831970215,
-                            "completed_sentence": " Texans",
+                            "completed_sentence": "\u2423Texans",
                             "group": "invalid"
                         },
                         "34": {
@@ -9507,7 +9507,7 @@
                         },
                         "42": {
                             "logit_value": 5.451666831970215,
-                            "completed_sentence": " COLORADO",
+                            "completed_sentence": "\u2423COLORADO",
                             "group": "invalid"
                         },
                         "43": {
@@ -9522,7 +9522,7 @@
                         },
                         "45": {
                             "logit_value": 5.414166450500488,
-                            "completed_sentence": " Minnesota",
+                            "completed_sentence": "\u2423Minnesota",
                             "group": "invalid"
                         },
                         "46": {
@@ -9542,7 +9542,7 @@
                         },
                         "49": {
                             "logit_value": 5.351666450500488,
-                            "completed_sentence": " Hokkaido",
+                            "completed_sentence": "\u2423Hokkaido",
                             "group": "invalid"
                         },
                         "50": {
@@ -9552,7 +9552,7 @@
                         },
                         "51": {
                             "logit_value": 5.326666831970215,
-                            "completed_sentence": " DELAWARE",
+                            "completed_sentence": "\u2423DELAWARE",
                             "group": "invalid"
                         },
                         "52": {
@@ -9562,7 +9562,7 @@
                         },
                         "53": {
                             "logit_value": 5.289166450500488,
-                            "completed_sentence": " CONNECTICUT",
+                            "completed_sentence": "\u2423CONNECTICUT",
                             "group": "invalid"
                         },
                         "54": {
@@ -9622,8 +9622,8 @@
                     "ylim_min": 2.2125,
                     "__temperature_rates": {
                         "valid_and_frequent": 0.28061628341674805,
-                        "valid_and_rare": 0.23695892095565796,
-                        "invalid": 0.482424795627594
+                        "valid_and_rare": 0.2730553448200226,
+                        "invalid": 0.44632840156555176
                     },
                     "tokens": {
                         "0": {
@@ -9654,7 +9654,7 @@
                         "5": {
                             "logit_value": 7.269165992736816,
                             "completed_sentence": "Minn",
-                            "group": "invalid"
+                            "group": "valid_and_rare"
                         },
                         "6": {
                             "logit_value": 7.144165992736816,
@@ -9663,12 +9663,12 @@
                         },
                         "7": {
                             "logit_value": 7.029582977294922,
-                            "completed_sentence": " Texas",
+                            "completed_sentence": "\u2423Texas",
                             "group": "invalid"
                         },
                         "8": {
                             "logit_value": 6.904582977294922,
-                            "completed_sentence": " California",
+                            "completed_sentence": "\u2423California",
                             "group": "invalid"
                         },
                         "9": {
@@ -9688,7 +9688,7 @@
                         },
                         "12": {
                             "logit_value": 6.519165992736816,
-                            "completed_sentence": " Alabama",
+                            "completed_sentence": "\u2423Alabama",
                             "group": "invalid"
                         },
                         "13": {
@@ -9703,7 +9703,7 @@
                         },
                         "15": {
                             "logit_value": 6.269166469573975,
-                            "completed_sentence": " Georgia",
+                            "completed_sentence": "\u2423Georgia",
                             "group": "invalid"
                         },
                         "16": {
@@ -9713,7 +9713,7 @@
                         },
                         "17": {
                             "logit_value": 6.123332977294922,
-                            "completed_sentence": " rhode island",
+                            "completed_sentence": "\u2423rhode island",
                             "group": "invalid"
                         },
                         "18": {
@@ -9733,7 +9733,7 @@
                         },
                         "21": {
                             "logit_value": 6.019166469573975,
-                            "completed_sentence": " Maryland",
+                            "completed_sentence": "\u2423Maryland",
                             "group": "invalid"
                         },
                         "22": {
@@ -9743,12 +9743,12 @@
                         },
                         "23": {
                             "logit_value": 5.977499485015869,
-                            "completed_sentence": " florida",
+                            "completed_sentence": "\u2423florida",
                             "group": "invalid"
                         },
                         "24": {
                             "logit_value": 5.935832977294922,
-                            "completed_sentence": " Illinois",
+                            "completed_sentence": "\u2423Illinois",
                             "group": "invalid"
                         },
                         "25": {
@@ -9758,17 +9758,17 @@
                         },
                         "26": {
                             "logit_value": 5.842082977294922,
-                            "completed_sentence": " New Hampshire",
+                            "completed_sentence": "\u2423New Hampshire",
                             "group": "invalid"
                         },
                         "27": {
                             "logit_value": 5.831666469573975,
-                            "completed_sentence": " CALIFORNIA",
+                            "completed_sentence": "\u2423CALIFORNIA",
                             "group": "invalid"
                         },
                         "28": {
                             "logit_value": 5.810832977294922,
-                            "completed_sentence": " Iowa",
+                            "completed_sentence": "\u2423Iowa",
                             "group": "invalid"
                         },
                         "29": {
@@ -9778,12 +9778,12 @@
                         },
                         "30": {
                             "logit_value": 5.758749485015869,
-                            "completed_sentence": "\nCalifornia",
+                            "completed_sentence": "\u2423California",
                             "group": "invalid"
                         },
                         "31": {
                             "logit_value": 5.737916469573975,
-                            "completed_sentence": " tx",
+                            "completed_sentence": "\u2423tx",
                             "group": "invalid"
                         },
                         "32": {
@@ -9793,7 +9793,7 @@
                         },
                         "33": {
                             "logit_value": 5.680624485015869,
-                            "completed_sentence": " Texans",
+                            "completed_sentence": "\u2423Texans",
                             "group": "invalid"
                         },
                         "34": {
@@ -9838,7 +9838,7 @@
                         },
                         "42": {
                             "logit_value": 5.550416469573975,
-                            "completed_sentence": " COLORADO",
+                            "completed_sentence": "\u2423COLORADO",
                             "group": "invalid"
                         },
                         "43": {
@@ -9853,7 +9853,7 @@
                         },
                         "45": {
                             "logit_value": 5.519166469573975,
-                            "completed_sentence": " Minnesota",
+                            "completed_sentence": "\u2423Minnesota",
                             "group": "invalid"
                         },
                         "46": {
@@ -9873,7 +9873,7 @@
                         },
                         "49": {
                             "logit_value": 5.467082977294922,
-                            "completed_sentence": " Hokkaido",
+                            "completed_sentence": "\u2423Hokkaido",
                             "group": "invalid"
                         },
                         "50": {
@@ -9883,7 +9883,7 @@
                         },
                         "51": {
                             "logit_value": 5.446249485015869,
-                            "completed_sentence": " DELAWARE",
+                            "completed_sentence": "\u2423DELAWARE",
                             "group": "invalid"
                         },
                         "52": {
@@ -9893,7 +9893,7 @@
                         },
                         "53": {
                             "logit_value": 5.414999485015869,
-                            "completed_sentence": " CONNECTICUT",
+                            "completed_sentence": "\u2423CONNECTICUT",
                             "group": "invalid"
                         },
                         "54": {
@@ -9953,8 +9953,8 @@
                     "ylim_min": 2.2125,
                     "__temperature_rates": {
                         "valid_and_frequent": 0.16225296258926392,
-                        "valid_and_rare": 0.20434074103832245,
-                        "invalid": 0.6334064602851868
+                        "valid_and_rare": 0.24271103739738464,
+                        "invalid": 0.5950361490249634
                     },
                     "tokens": {
                         "0": {
@@ -9985,7 +9985,7 @@
                         "5": {
                             "logit_value": 6.953332901000977,
                             "completed_sentence": "Minn",
-                            "group": "invalid"
+                            "group": "valid_and_rare"
                         },
                         "6": {
                             "logit_value": 6.87833309173584,
@@ -9994,12 +9994,12 @@
                         },
                         "7": {
                             "logit_value": 6.8095831871032715,
-                            "completed_sentence": " Texas",
+                            "completed_sentence": "\u2423Texas",
                             "group": "invalid"
                         },
                         "8": {
                             "logit_value": 6.734582901000977,
-                            "completed_sentence": " California",
+                            "completed_sentence": "\u2423California",
                             "group": "invalid"
                         },
                         "9": {
@@ -10019,7 +10019,7 @@
                         },
                         "12": {
                             "logit_value": 6.50333309173584,
-                            "completed_sentence": " Alabama",
+                            "completed_sentence": "\u2423Alabama",
                             "group": "invalid"
                         },
                         "13": {
@@ -10034,7 +10034,7 @@
                         },
                         "15": {
                             "logit_value": 6.353332996368408,
-                            "completed_sentence": " Georgia",
+                            "completed_sentence": "\u2423Georgia",
                             "group": "invalid"
                         },
                         "16": {
@@ -10044,7 +10044,7 @@
                         },
                         "17": {
                             "logit_value": 6.265832901000977,
-                            "completed_sentence": " rhode island",
+                            "completed_sentence": "\u2423rhode island",
                             "group": "invalid"
                         },
                         "18": {
@@ -10064,7 +10064,7 @@
                         },
                         "21": {
                             "logit_value": 6.203332901000977,
-                            "completed_sentence": " Maryland",
+                            "completed_sentence": "\u2423Maryland",
                             "group": "invalid"
                         },
                         "22": {
@@ -10074,12 +10074,12 @@
                         },
                         "23": {
                             "logit_value": 6.178333282470703,
-                            "completed_sentence": " florida",
+                            "completed_sentence": "\u2423florida",
                             "group": "invalid"
                         },
                         "24": {
                             "logit_value": 6.1533331871032715,
-                            "completed_sentence": " Illinois",
+                            "completed_sentence": "\u2423Illinois",
                             "group": "invalid"
                         },
                         "25": {
@@ -10089,17 +10089,17 @@
                         },
                         "26": {
                             "logit_value": 6.09708309173584,
-                            "completed_sentence": " New Hampshire",
+                            "completed_sentence": "\u2423New Hampshire",
                             "group": "invalid"
                         },
                         "27": {
                             "logit_value": 6.0908331871032715,
-                            "completed_sentence": " CALIFORNIA",
+                            "completed_sentence": "\u2423CALIFORNIA",
                             "group": "invalid"
                         },
                         "28": {
                             "logit_value": 6.078332901000977,
-                            "completed_sentence": " Iowa",
+                            "completed_sentence": "\u2423Iowa",
                             "group": "invalid"
                         },
                         "29": {
@@ -10109,12 +10109,12 @@
                         },
                         "30": {
                             "logit_value": 6.047082901000977,
-                            "completed_sentence": "\nCalifornia",
+                            "completed_sentence": "\u2423California",
                             "group": "invalid"
                         },
                         "31": {
                             "logit_value": 6.03458309173584,
-                            "completed_sentence": " tx",
+                            "completed_sentence": "\u2423tx",
                             "group": "invalid"
                         },
                         "32": {
@@ -10124,7 +10124,7 @@
                         },
                         "33": {
                             "logit_value": 6.000207901000977,
-                            "completed_sentence": " Texans",
+                            "completed_sentence": "\u2423Texans",
                             "group": "invalid"
                         },
                         "34": {
@@ -10169,7 +10169,7 @@
                         },
                         "42": {
                             "logit_value": 5.922082901000977,
-                            "completed_sentence": " COLORADO",
+                            "completed_sentence": "\u2423COLORADO",
                             "group": "invalid"
                         },
                         "43": {
@@ -10184,7 +10184,7 @@
                         },
                         "45": {
                             "logit_value": 5.9033331871032715,
-                            "completed_sentence": " Minnesota",
+                            "completed_sentence": "\u2423Minnesota",
                             "group": "invalid"
                         },
                         "46": {
@@ -10204,7 +10204,7 @@
                         },
                         "49": {
                             "logit_value": 5.8720831871032715,
-                            "completed_sentence": " Hokkaido",
+                            "completed_sentence": "\u2423Hokkaido",
                             "group": "invalid"
                         },
                         "50": {
@@ -10214,7 +10214,7 @@
                         },
                         "51": {
                             "logit_value": 5.859582901000977,
-                            "completed_sentence": " DELAWARE",
+                            "completed_sentence": "\u2423DELAWARE",
                             "group": "invalid"
                         },
                         "52": {
@@ -10224,7 +10224,7 @@
                         },
                         "53": {
                             "logit_value": 5.8408331871032715,
-                            "completed_sentence": " CONNECTICUT",
+                            "completed_sentence": "\u2423CONNECTICUT",
                             "group": "invalid"
                         },
                         "54": {
@@ -10284,8 +10284,8 @@
                     "ylim_min": 2.2125,
                     "__temperature_rates": {
                         "valid_and_frequent": 0.09991426020860672,
-                        "valid_and_rare": 0.17224103212356567,
-                        "invalid": 0.7278447151184082
+                        "valid_and_rare": 0.2112293243408203,
+                        "invalid": 0.6888563632965088
                     },
                     "tokens": {
                         "0": {
@@ -10316,7 +10316,7 @@
                         "5": {
                             "logit_value": 6.672916412353516,
                             "completed_sentence": "Minn",
-                            "group": "invalid"
+                            "group": "valid_and_rare"
                         },
                         "6": {
                             "logit_value": 6.635416507720947,
@@ -10325,12 +10325,12 @@
                         },
                         "7": {
                             "logit_value": 6.601041316986084,
-                            "completed_sentence": " Texas",
+                            "completed_sentence": "\u2423Texas",
                             "group": "invalid"
                         },
                         "8": {
                             "logit_value": 6.563541412353516,
-                            "completed_sentence": " California",
+                            "completed_sentence": "\u2423California",
                             "group": "invalid"
                         },
                         "9": {
@@ -10350,7 +10350,7 @@
                         },
                         "12": {
                             "logit_value": 6.447916507720947,
-                            "completed_sentence": " Alabama",
+                            "completed_sentence": "\u2423Alabama",
                             "group": "invalid"
                         },
                         "13": {
@@ -10365,7 +10365,7 @@
                         },
                         "15": {
                             "logit_value": 6.3729166984558105,
-                            "completed_sentence": " Georgia",
+                            "completed_sentence": "\u2423Georgia",
                             "group": "invalid"
                         },
                         "16": {
@@ -10375,7 +10375,7 @@
                         },
                         "17": {
                             "logit_value": 6.329166412353516,
-                            "completed_sentence": " rhode island",
+                            "completed_sentence": "\u2423rhode island",
                             "group": "invalid"
                         },
                         "18": {
@@ -10395,7 +10395,7 @@
                         },
                         "21": {
                             "logit_value": 6.297916412353516,
-                            "completed_sentence": " Maryland",
+                            "completed_sentence": "\u2423Maryland",
                             "group": "invalid"
                         },
                         "22": {
@@ -10405,12 +10405,12 @@
                         },
                         "23": {
                             "logit_value": 6.285416603088379,
-                            "completed_sentence": " florida",
+                            "completed_sentence": "\u2423florida",
                             "group": "invalid"
                         },
                         "24": {
                             "logit_value": 6.272916316986084,
-                            "completed_sentence": " Illinois",
+                            "completed_sentence": "\u2423Illinois",
                             "group": "invalid"
                         },
                         "25": {
@@ -10420,17 +10420,17 @@
                         },
                         "26": {
                             "logit_value": 6.244791507720947,
-                            "completed_sentence": " New Hampshire",
+                            "completed_sentence": "\u2423New Hampshire",
                             "group": "invalid"
                         },
                         "27": {
                             "logit_value": 6.241666316986084,
-                            "completed_sentence": " CALIFORNIA",
+                            "completed_sentence": "\u2423CALIFORNIA",
                             "group": "invalid"
                         },
                         "28": {
                             "logit_value": 6.235416412353516,
-                            "completed_sentence": " Iowa",
+                            "completed_sentence": "\u2423Iowa",
                             "group": "invalid"
                         },
                         "29": {
@@ -10440,12 +10440,12 @@
                         },
                         "30": {
                             "logit_value": 6.219791412353516,
-                            "completed_sentence": "\nCalifornia",
+                            "completed_sentence": "\u2423California",
                             "group": "invalid"
                         },
                         "31": {
                             "logit_value": 6.213541507720947,
-                            "completed_sentence": " tx",
+                            "completed_sentence": "\u2423tx",
                             "group": "invalid"
                         },
                         "32": {
@@ -10455,7 +10455,7 @@
                         },
                         "33": {
                             "logit_value": 6.196353912353516,
-                            "completed_sentence": " Texans",
+                            "completed_sentence": "\u2423Texans",
                             "group": "invalid"
                         },
                         "34": {
@@ -10500,7 +10500,7 @@
                         },
                         "42": {
                             "logit_value": 6.157291412353516,
-                            "completed_sentence": " COLORADO",
+                            "completed_sentence": "\u2423COLORADO",
                             "group": "invalid"
                         },
                         "43": {
@@ -10515,7 +10515,7 @@
                         },
                         "45": {
                             "logit_value": 6.147916316986084,
-                            "completed_sentence": " Minnesota",
+                            "completed_sentence": "\u2423Minnesota",
                             "group": "invalid"
                         },
                         "46": {
@@ -10535,7 +10535,7 @@
                         },
                         "49": {
                             "logit_value": 6.132291316986084,
-                            "completed_sentence": " Hokkaido",
+                            "completed_sentence": "\u2423Hokkaido",
                             "group": "invalid"
                         },
                         "50": {
@@ -10545,7 +10545,7 @@
                         },
                         "51": {
                             "logit_value": 6.126041412353516,
-                            "completed_sentence": " DELAWARE",
+                            "completed_sentence": "\u2423DELAWARE",
                             "group": "invalid"
                         },
                         "52": {
@@ -10555,7 +10555,7 @@
                         },
                         "53": {
                             "logit_value": 6.116666316986084,
-                            "completed_sentence": " CONNECTICUT",
+                            "completed_sentence": "\u2423CONNECTICUT",
                             "group": "invalid"
                         },
                         "54": {
@@ -10615,8 +10615,8 @@
                     "ylim_min": 2.2125,
                     "__temperature_rates": {
                         "valid_and_frequent": 0.07691525667905807,
-                        "valid_and_rare": 0.1560734212398529,
-                        "invalid": 0.767011284828186
+                        "valid_and_rare": 0.19514478743076324,
+                        "invalid": 0.727940022945404
                     },
                     "tokens": {
                         "0": {
@@ -10647,7 +10647,7 @@
                         "5": {
                             "logit_value": 6.445625305175781,
                             "completed_sentence": "Minn",
-                            "group": "invalid"
+                            "group": "valid_and_rare"
                         },
                         "6": {
                             "logit_value": 6.426875114440918,
@@ -10656,12 +10656,12 @@
                         },
                         "7": {
                             "logit_value": 6.409687519073486,
-                            "completed_sentence": " Texas",
+                            "completed_sentence": "\u2423Texas",
                             "group": "invalid"
                         },
                         "8": {
                             "logit_value": 6.390937805175781,
-                            "completed_sentence": " California",
+                            "completed_sentence": "\u2423California",
                             "group": "invalid"
                         },
                         "9": {
@@ -10681,7 +10681,7 @@
                         },
                         "12": {
                             "logit_value": 6.333125114440918,
-                            "completed_sentence": " Alabama",
+                            "completed_sentence": "\u2423Alabama",
                             "group": "invalid"
                         },
                         "13": {
@@ -10696,7 +10696,7 @@
                         },
                         "15": {
                             "logit_value": 6.29562520980835,
-                            "completed_sentence": " Georgia",
+                            "completed_sentence": "\u2423Georgia",
                             "group": "invalid"
                         },
                         "16": {
@@ -10706,7 +10706,7 @@
                         },
                         "17": {
                             "logit_value": 6.273750305175781,
-                            "completed_sentence": " rhode island",
+                            "completed_sentence": "\u2423rhode island",
                             "group": "invalid"
                         },
                         "18": {
@@ -10726,7 +10726,7 @@
                         },
                         "21": {
                             "logit_value": 6.258125305175781,
-                            "completed_sentence": " Maryland",
+                            "completed_sentence": "\u2423Maryland",
                             "group": "invalid"
                         },
                         "22": {
@@ -10736,12 +10736,12 @@
                         },
                         "23": {
                             "logit_value": 6.251874923706055,
-                            "completed_sentence": " florida",
+                            "completed_sentence": "\u2423florida",
                             "group": "invalid"
                         },
                         "24": {
                             "logit_value": 6.245625019073486,
-                            "completed_sentence": " Illinois",
+                            "completed_sentence": "\u2423Illinois",
                             "group": "invalid"
                         },
                         "25": {
@@ -10751,17 +10751,17 @@
                         },
                         "26": {
                             "logit_value": 6.231562614440918,
-                            "completed_sentence": " New Hampshire",
+                            "completed_sentence": "\u2423New Hampshire",
                             "group": "invalid"
                         },
                         "27": {
                             "logit_value": 6.230000019073486,
-                            "completed_sentence": " CALIFORNIA",
+                            "completed_sentence": "\u2423CALIFORNIA",
                             "group": "invalid"
                         },
                         "28": {
                             "logit_value": 6.226875305175781,
-                            "completed_sentence": " Iowa",
+                            "completed_sentence": "\u2423Iowa",
                             "group": "invalid"
                         },
                         "29": {
@@ -10771,12 +10771,12 @@
                         },
                         "30": {
                             "logit_value": 6.219062805175781,
-                            "completed_sentence": "\nCalifornia",
+                            "completed_sentence": "\u2423California",
                             "group": "invalid"
                         },
                         "31": {
                             "logit_value": 6.215937614440918,
-                            "completed_sentence": " tx",
+                            "completed_sentence": "\u2423tx",
                             "group": "invalid"
                         },
                         "32": {
@@ -10786,7 +10786,7 @@
                         },
                         "33": {
                             "logit_value": 6.207344055175781,
-                            "completed_sentence": " Texans",
+                            "completed_sentence": "\u2423Texans",
                             "group": "invalid"
                         },
                         "34": {
@@ -10831,7 +10831,7 @@
                         },
                         "42": {
                             "logit_value": 6.187812805175781,
-                            "completed_sentence": " COLORADO",
+                            "completed_sentence": "\u2423COLORADO",
                             "group": "invalid"
                         },
                         "43": {
@@ -10846,7 +10846,7 @@
                         },
                         "45": {
                             "logit_value": 6.183125019073486,
-                            "completed_sentence": " Minnesota",
+                            "completed_sentence": "\u2423Minnesota",
                             "group": "invalid"
                         },
                         "46": {
@@ -10866,7 +10866,7 @@
                         },
                         "49": {
                             "logit_value": 6.175312519073486,
-                            "completed_sentence": " Hokkaido",
+                            "completed_sentence": "\u2423Hokkaido",
                             "group": "invalid"
                         },
                         "50": {
@@ -10876,7 +10876,7 @@
                         },
                         "51": {
                             "logit_value": 6.172187805175781,
-                            "completed_sentence": " DELAWARE",
+                            "completed_sentence": "\u2423DELAWARE",
                             "group": "invalid"
                         },
                         "52": {
@@ -10886,7 +10886,7 @@
                         },
                         "53": {
                             "logit_value": 6.167500019073486,
-                            "completed_sentence": " CONNECTICUT",
+                            "completed_sentence": "\u2423CONNECTICUT",
                             "group": "invalid"
                         },
                         "54": {
@@ -11033,7 +11033,7 @@
                         },
                         "15": {
                             "logit_value": 7.125,
-                            "completed_sentence": " 15",
+                            "completed_sentence": "\u242315",
                             "group": "invalid"
                         },
                         "16": {
@@ -11168,7 +11168,7 @@
                         },
                         "42": {
                             "logit_value": 7.125,
-                            "completed_sentence": "\nassistant\n7",
+                            "completed_sentence": "\u2423assistant\n7",
                             "group": "invalid"
                         },
                         "43": {
@@ -11243,7 +11243,7 @@
                         },
                         "57": {
                             "logit_value": 7.125,
-                            "completed_sentence": "   17",
+                            "completed_sentence": "\u2423  17",
                             "group": "invalid"
                         },
                         "58": {
@@ -11364,7 +11364,7 @@
                         },
                         "15": {
                             "logit_value": -132.62496948242188,
-                            "completed_sentence": " 15",
+                            "completed_sentence": "\u242315",
                             "group": "invalid"
                         },
                         "16": {
@@ -11499,7 +11499,7 @@
                         },
                         "42": {
                             "logit_value": -148.87496948242188,
-                            "completed_sentence": "\nassistant\n7",
+                            "completed_sentence": "\u2423assistant\n7",
                             "group": "invalid"
                         },
                         "43": {
@@ -11574,7 +11574,7 @@
                         },
                         "57": {
                             "logit_value": -152.62496948242188,
-                            "completed_sentence": "   17",
+                            "completed_sentence": "\u2423  17",
                             "group": "invalid"
                         },
                         "58": {
@@ -11695,7 +11695,7 @@
                         },
                         "15": {
                             "logit_value": -5.625,
-                            "completed_sentence": " 15",
+                            "completed_sentence": "\u242315",
                             "group": "invalid"
                         },
                         "16": {
@@ -11830,7 +11830,7 @@
                         },
                         "42": {
                             "logit_value": -8.875,
-                            "completed_sentence": "\nassistant\n7",
+                            "completed_sentence": "\u2423assistant\n7",
                             "group": "invalid"
                         },
                         "43": {
@@ -11905,7 +11905,7 @@
                         },
                         "57": {
                             "logit_value": -9.625,
-                            "completed_sentence": "   17",
+                            "completed_sentence": "\u2423  17",
                             "group": "invalid"
                         },
                         "58": {
@@ -12026,7 +12026,7 @@
                         },
                         "15": {
                             "logit_value": 6.28125,
-                            "completed_sentence": " 15",
+                            "completed_sentence": "\u242315",
                             "group": "invalid"
                         },
                         "16": {
@@ -12161,7 +12161,7 @@
                         },
                         "42": {
                             "logit_value": 4.25,
-                            "completed_sentence": "\nassistant\n7",
+                            "completed_sentence": "\u2423assistant\n7",
                             "group": "invalid"
                         },
                         "43": {
@@ -12236,7 +12236,7 @@
                         },
                         "57": {
                             "logit_value": 3.78125,
-                            "completed_sentence": "   17",
+                            "completed_sentence": "\u2423  17",
                             "group": "invalid"
                         },
                         "58": {
@@ -12357,7 +12357,7 @@
                         },
                         "15": {
                             "logit_value": 10.25,
-                            "completed_sentence": " 15",
+                            "completed_sentence": "\u242315",
                             "group": "invalid"
                         },
                         "16": {
@@ -12492,7 +12492,7 @@
                         },
                         "42": {
                             "logit_value": 8.625,
-                            "completed_sentence": "\nassistant\n7",
+                            "completed_sentence": "\u2423assistant\n7",
                             "group": "invalid"
                         },
                         "43": {
@@ -12567,7 +12567,7 @@
                         },
                         "57": {
                             "logit_value": 8.25,
-                            "completed_sentence": "   17",
+                            "completed_sentence": "\u2423  17",
                             "group": "invalid"
                         },
                         "58": {
@@ -12688,7 +12688,7 @@
                         },
                         "15": {
                             "logit_value": 12.211668014526367,
-                            "completed_sentence": " 15",
+                            "completed_sentence": "\u242315",
                             "group": "invalid"
                         },
                         "16": {
@@ -12823,7 +12823,7 @@
                         },
                         "42": {
                             "logit_value": 11.128334045410156,
-                            "completed_sentence": "\nassistant\n7",
+                            "completed_sentence": "\u2423assistant\n7",
                             "group": "invalid"
                         },
                         "43": {
@@ -12898,7 +12898,7 @@
                         },
                         "57": {
                             "logit_value": 10.878334045410156,
-                            "completed_sentence": "   17",
+                            "completed_sentence": "\u2423  17",
                             "group": "invalid"
                         },
                         "58": {
@@ -13019,7 +13019,7 @@
                         },
                         "15": {
                             "logit_value": 13.71500015258789,
-                            "completed_sentence": " 15",
+                            "completed_sentence": "\u242315",
                             "group": "invalid"
                         },
                         "16": {
@@ -13154,7 +13154,7 @@
                         },
                         "42": {
                             "logit_value": 13.0649995803833,
-                            "completed_sentence": "\nassistant\n7",
+                            "completed_sentence": "\u2423assistant\n7",
                             "group": "invalid"
                         },
                         "43": {
@@ -13229,7 +13229,7 @@
                         },
                         "57": {
                             "logit_value": 12.914999961853027,
-                            "completed_sentence": "   17",
+                            "completed_sentence": "\u2423  17",
                             "group": "invalid"
                         },
                         "58": {
@@ -13350,7 +13350,7 @@
                         },
                         "15": {
                             "logit_value": 13.843334197998047,
-                            "completed_sentence": " 15",
+                            "completed_sentence": "\u242315",
                             "group": "invalid"
                         },
                         "16": {
@@ -13485,7 +13485,7 @@
                         },
                         "42": {
                             "logit_value": 13.301667213439941,
-                            "completed_sentence": "\nassistant\n7",
+                            "completed_sentence": "\u2423assistant\n7",
                             "group": "invalid"
                         },
                         "43": {
@@ -13560,7 +13560,7 @@
                         },
                         "57": {
                             "logit_value": 13.176667213439941,
-                            "completed_sentence": "   17",
+                            "completed_sentence": "\u2423  17",
                             "group": "invalid"
                         },
                         "58": {
@@ -13681,7 +13681,7 @@
                         },
                         "15": {
                             "logit_value": 14.430000305175781,
-                            "completed_sentence": " 15",
+                            "completed_sentence": "\u242315",
                             "group": "invalid"
                         },
                         "16": {
@@ -13816,7 +13816,7 @@
                         },
                         "42": {
                             "logit_value": 14.105000495910645,
-                            "completed_sentence": "\nassistant\n7",
+                            "completed_sentence": "\u2423assistant\n7",
                             "group": "invalid"
                         },
                         "43": {
@@ -13891,7 +13891,7 @@
                         },
                         "57": {
                             "logit_value": 14.029999732971191,
-                            "completed_sentence": "   17",
+                            "completed_sentence": "\u2423  17",
                             "group": "invalid"
                         },
                         "58": {
@@ -14012,7 +14012,7 @@
                         },
                         "15": {
                             "logit_value": 14.787500381469727,
-                            "completed_sentence": " 15",
+                            "completed_sentence": "\u242315",
                             "group": "invalid"
                         },
                         "16": {
@@ -14147,7 +14147,7 @@
                         },
                         "42": {
                             "logit_value": 14.625,
-                            "completed_sentence": "\nassistant\n7",
+                            "completed_sentence": "\u2423assistant\n7",
                             "group": "invalid"
                         },
                         "43": {
@@ -14222,7 +14222,7 @@
                         },
                         "57": {
                             "logit_value": 14.587501525878906,
-                            "completed_sentence": "   17",
+                            "completed_sentence": "\u2423  17",
                             "group": "invalid"
                         },
                         "58": {
@@ -14343,7 +14343,7 @@
                         },
                         "15": {
                             "logit_value": 14.801250457763672,
-                            "completed_sentence": " 15",
+                            "completed_sentence": "\u242315",
                             "group": "invalid"
                         },
                         "16": {
@@ -14478,7 +14478,7 @@
                         },
                         "42": {
                             "logit_value": 14.719999313354492,
-                            "completed_sentence": "\nassistant\n7",
+                            "completed_sentence": "\u2423assistant\n7",
                             "group": "invalid"
                         },
                         "43": {
@@ -14553,7 +14553,7 @@
                         },
                         "57": {
                             "logit_value": 14.701250076293945,
-                            "completed_sentence": "   17",
+                            "completed_sentence": "\u2423  17",
                             "group": "invalid"
                         },
                         "58": {
