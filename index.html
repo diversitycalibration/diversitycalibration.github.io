@@ -99,7 +99,7 @@
     .paper-section-lede {
       color: #333;
       font-size: clamp(0.98rem, 1.65vw, 1.12rem);
-      line-height: 1.65;
+      line-height: 1.55;
     }
 
     .paper-body-copy {
@@ -2361,8 +2361,10 @@
           <div class="columns is-centered has-text-centered">
             <div class="column is-full">
               <h2 class="title is-3 paper-section-title">1. Order Calibration</h2>
-              <p class="subtitle is-6 paper-section-lede">Valid tokens are not reliably ranked above invalid tokens. Any cutoff strategy inevitably drops many valid tokens (low recall) or includes many invalid ones (low precision).</p>
-
+              <div class="paper-body-copy">
+              <p>Valid tokens are not reliably ranked above invalid tokens. Any cutoff strategy inevitably drops many valid tokens (low recall) or includes many invalid ones (low precision).</p>
+              </div>
+              </br>
               <div class="up-plot-wrap">
                 <div class="up-model-control">
                   <button class="up-model-button" id="upModelLeftButton" type="button" aria-label="Previous upper model">
@@ -2499,8 +2501,10 @@
           <div class="columns is-centered has-text-centered">
             <div class="column is-full">
               <h2 class="title is-3 paper-section-title" style="margin-top: 10px;">2. Shape Calibration</h2>
-              <p class="subtitle is-6 paper-section-lede">Model's distribution has a sharp drop in the head, and a heavy, long tail. At low temperature, only a few tokens are dominant. Increasing temperature shifts the distribution mass towards the tail, but since invalid tokens vastly outnumber valid ones, they grow much faster with temperature and other valid tokens remain suppressed.</p>
-
+              <div class="paper-body-copy">
+                <p>Model's distribution has a sharp drop in the head, and a heavy, long tail. At low temperature, only a few tokens are dominant. Increasing temperature shifts the distribution mass towards the tail, but since invalid tokens vastly outnumber valid ones, they grow much faster with temperature and other valid tokens remain suppressed.</p>
+              </div>
+              </br>
               <div class="down-plot-wrap">
                 <div class="down-model-control">
                   <button class="down-model-button" id="downModelLeftButton" type="button" aria-label="Previous down model">
