@@ -2407,7 +2407,7 @@
                   <div class="up-interaction-hint">
                     <span class="up-interaction-hint-icon">↧</span>
                     <span class="up-interaction-hint-text">
-                      Hover or click a <strong>bar</strong> to preview different responses.
+                      Hover over a <strong>bar</strong> to preview different responses.
                     </span>
                   </div>
 
@@ -2417,7 +2417,7 @@
 
                   <div class="up-plot-layout">
                     <div class="up-plot-area">
-                      <div class="up-y-axis-label">Token Probability (logscale)</div>
+                      <div class="up-y-axis-label">Token Probability (log-scale)</div>
 
                       <div class="up-chart-wrapper">
                         <div class="up-chart" id="upChart"></div>
@@ -2502,7 +2502,7 @@
             <div class="column is-full">
               <h2 class="title is-3 paper-section-title" style="margin-top: 10px;">2. Shape Calibration</h2>
               <div class="paper-body-copy">
-                <p>Model's distribution has a sharp drop in the head, and a heavy, long tail. At low temperature, only a few tokens are dominant. Increasing temperature shifts the distribution mass towards the tail, but since invalid tokens vastly outnumber valid ones, they grow much faster with temperature and other valid tokens remain suppressed.</p>
+                <p>The model's distribution has a sharp drop in the head, and a heavy, long tail. At low temperature, only a few tokens are dominant. Increasing temperature shifts the distribution mass towards the tail, but since invalid tokens vastly outnumber valid ones, they grow much faster with temperature and other valid tokens remain suppressed.</p>
               </div>
               </br>
               <div class="down-plot-wrap">
@@ -2547,7 +2547,7 @@
                   <div class="down-interaction-hint">
                     <span class="down-interaction-hint-icon">↧</span>
                     <span class="down-interaction-hint-text">
-                      Hover or click a <strong>bar</strong> to preview different responses.
+                      Hover over a <strong>bar</strong> to preview different responses.
                     </span>
                   </div>
 
@@ -2557,7 +2557,7 @@
 
                   <div class="down-plot-layout">
                     <div class="down-plot-area">
-                      <div class="down-y-axis-label">Token Probability (logscale)</div>
+                      <div class="down-y-axis-label">Token Probability (log-scale)</div>
 
                       <div class="down-chart-wrapper">
                         <div class="down-chart" id="downChart"></div>
@@ -2609,7 +2609,7 @@
                     <ul class="paper-takeaways-list">
                       <li>Few valid tokens have large logit values, many other valid tokens have small logit values, and a large number of invalid tokens constitute the majority of the tail.</li>
                       <li>Increasing the temperature reduces the gap between the head and the tail, but since the tail is dominated by invalid tokens, it leads to a much higher growth in probabilities of invalid tokens compared to most valid tokens.</li>
-                      <li>The effect compunds when generating longer sequences.
+                      <li>The effect compounds when generating longer sequences.</li>
                     </ul>
                 </div>              
               
@@ -2818,7 +2818,7 @@
 
           upInteractionHintText.innerHTML = isMobile
             ? 'Tap a <strong>bar</strong> to preview different responses'
-            : 'Hover or click a <strong>bar</strong> to preview different responses';
+            : 'Hover over a <strong>bar</strong> to preview different responses';
         }
 
         async function upLoadData() {
@@ -3973,7 +3973,7 @@
 
           downInteractionHintText.innerHTML = isMobile
             ? 'Tap a <strong>bar</strong> to preview different responses'
-            : 'Hover or click a <strong>bar</strong> to preview different responses';
+            : 'Hover over a <strong>bar</strong> to preview different responses';
         }
 
         async function downLoadData() {
