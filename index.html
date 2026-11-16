@@ -4653,20 +4653,20 @@
                 top: 34,
                 right: 12,
                 bottom: 34,
-                left: 32
+                left: 46
               }
             : isMobileProb
               ? {
                   top: 36,
                   right: 14,
                   bottom: 36,
-                  left: 34
+                  left: 48
                 }
               : {
                   top: 38,
                   right: 42,
                   bottom: 36,
-                  left: 42
+                  left: 58
                 };
           const innerWidth = width - margin.left - margin.right;
           const innerHeight = height - margin.top - margin.bottom;
@@ -4795,6 +4795,17 @@
           xLabel.setAttribute("text-anchor", "middle");
           xLabel.textContent = "Temperature";
           svg.appendChild(xLabel);
+
+          const yLabel = document.createElementNS(svgNS, "text");
+          const yLabelX = 12;
+          const yLabelY = margin.top + innerHeight / 2;
+          yLabel.setAttribute("class", "down-prob-label");
+          yLabel.setAttribute("x", yLabelX);
+          yLabel.setAttribute("y", yLabelY);
+          yLabel.setAttribute("text-anchor", "middle");
+          yLabel.setAttribute("transform", `rotate(-90 ${yLabelX} ${yLabelY})`);
+          yLabel.textContent = "Probability";
+          svg.appendChild(yLabel);
 
           const legendY = isSmallMobileProb ? 16 : isMobileProb ? 17 : 20;
 
